@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Inshallah, Carpe diem"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "c4fiber"
+name                     : "c4fiber's World"
 description              : "An amazing website. thanks"
 url                      : "https://c4fiber.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "c4fiber"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **amazing** idiot."
   location         : "Somewhere"
   email            :
   links:
