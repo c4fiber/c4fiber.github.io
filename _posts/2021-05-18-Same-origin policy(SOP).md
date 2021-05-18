@@ -12,7 +12,7 @@ Same-origin Policy
 
 
 
-![image-20201101232957110](./assets/images/sop.png)
+![image-20201101232957110](../assets/images/sop.png)
 
 
 

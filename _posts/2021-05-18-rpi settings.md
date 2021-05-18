@@ -32,7 +32,7 @@ iface default inet dhcp
 
 
 
-![](./assets/images/123.png)
+![](../assets/images/123.png)
 
 
 
