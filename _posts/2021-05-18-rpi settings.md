@@ -1,3 +1,12 @@
+---
+tile: "Raspberry pi 4 settings"
+date: 2021-05-18
+categories: armv7 arm64 rpi rpi4 dhcp
+typora-root-url: ../
+---
+
+
+
 ## DHCP auto connnect
 
 /etc/wpa_supplicant/wpa_supplicant.conf
@@ -23,7 +32,7 @@ iface default inet dhcp
 
 
 
-![](./images_md/123.png)
+![](./assets/images/123.png)
 
 
 

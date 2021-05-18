@@ -1,3 +1,12 @@
+---
+tile: "Docker commands (rpi4, armv7)"
+date: 2021-05-18
+categories: docker armv7 arm64 rpi rpi4
+typora-root-url: ../
+---
+
+
+
 sudo usermod -aG docker $USER
 
 출처: https://4urdev.tistory.com/80 [Simplify]

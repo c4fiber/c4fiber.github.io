@@ -2,6 +2,7 @@
 title: "Database SQL"
 date: 2020-05-18
 categories: Database
+typora-root-url: ../
 ---
 
 
