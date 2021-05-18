@@ -1,3 +1,17 @@
+---
+title: "Database SQL"
+date: 2020-05-18
+categories: Database
+---
+
+
+
+title: "Welcome to Jekyll!"
+date: 2020-11-29
+categories: jekyll update
+
+
+
 create table tb1 (
     studentID char(9) constraint pk_tb1 primary key,
     studentName varchar2(30) NOT NULL,
