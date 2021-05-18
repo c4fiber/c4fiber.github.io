@@ -1,0 +1,29 @@
+doc = document.getElementsByClassName("list_basis").item(0).firstChild.firstChild.firstChild.firstChild
+
+=HYPERLINK(CONCATENATE("https://search.shopping.naver.com/search/all?cat_id=&frm=NVSHATC&sort=price_asc&query=",C5))
+
+https://search.shopping.naver.com/search/all?cat_id=&frm=NVSHATC&sort=price_asc&query=
+
+
+
+
+
+
+document.getElementsByClassName("list_basis")
+
+---
+
+Sub getPrice()
+
+Dim ie As New InternetExplorer
+Dim doc As New HTMLDocument
+Dim text
+
+ie.Visible = True
+ie.navigate ("https://search.shopping.naver.com/search/all?query=QP1942O-5DG&frm=NVSHATC&prevQuery=QP1942O-5DG")
+
+doc = Document.getElementsByClassName("list_basis").Item(0).FirstChild.FirstChild.FirstChild.FirstChild
+text = doc.innerText
+
+
+End Sub

@@ -1,0 +1,43 @@
+# vscode 환경 설정
+
+
+
+
+
+https://m.blog.naver.com/PostView.nhn?blogId=mincoding&logNo=221733289320&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+
+
+https://wipis.tistory.com/30
+
+
+
+https://woowacourse.github.io/javable/2020-04-24/variable_naming
+
+
+
+## c++ 프로그래밍
+
+https://webnautes.tistory.com/1158
+
+
+
+[https://mr-dingo.github.io/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/2018/11/15/macro.html](https://mr-dingo.github.io/개발환경설정/2018/11/15/macro.html)
+
+
+
+https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference
+
+
+
+https://code.visualstudio.com/docs/cpp/config-mingw
+
+
+
+
+
+## visual studio
+
+하나의 솔루션에 여러 프로젝트
+
+https://sangdo913.tistory.com/62

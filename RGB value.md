@@ -1,0 +1,8 @@
+Rose Quatrz 247 202 201 / #F7CAC9
+Serenity 146 168 209 / #92A8D1
+Numbus Cloud 223 223 227 / #DFDFE3
+Periwinkle 204 204 255 / #7F7FFF
+
+카카오뱅크 라이언 카드색 : 144 183 222 / #7FB7DE
+약간 밝은 회색 : 192 192 192
+쵸금 진한 회색 : 172 172 172

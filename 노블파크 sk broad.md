@@ -1,0 +1,7 @@
+55.1
+admin
+7B51EF_admin
+
+a6004mx MAC
+70-5D-CC-D3-82-8D
+70:5D:CC:D3:82:8D
