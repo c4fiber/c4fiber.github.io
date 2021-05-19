@@ -219,6 +219,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - asset_path_tag.rb
 
 # mimic GitHub Pages with --safe
 whitelist:
