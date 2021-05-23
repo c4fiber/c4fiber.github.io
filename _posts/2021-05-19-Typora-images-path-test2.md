@@ -1,6 +1,7 @@
 ---
 title: "Typora 이미지 경로 세팅 (github.io, offline)"
-categories: Editor
+categ
+ories: Editor
 tags: typora github.io
 typora-root-url: ../
 
@@ -8,15 +9,15 @@ typora-root-url: ../
 
 
 
+
+
+
+
+c4fiber
+
+실패링크 1
+
 ![image-20210519152934784](/../_posts/images/image-20210519152934784.png)
-
-
-
-![image-20210519152937427](/../_posts/images/image-20210519152937427-1621405930349.png)
-
-
-
-
 
 
 
