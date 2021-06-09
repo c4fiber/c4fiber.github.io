@@ -1,19 +1,16 @@
 ---
-title: "Typora 이미지 경로 세팅 (github.io, offline)"
+title: Typora 이미지 경로 세팅 (github.io, offline)
 categ
 ories: Editor
 tags: typora github.io
 typora-root-url: ../
-
 ---
 
 
 
+`written by c4fiber`
 
 
-
-
-c4fiber
 
 실패링크 1
 
