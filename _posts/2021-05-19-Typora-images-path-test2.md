@@ -1,7 +1,6 @@
 ---
 title: Typora 이미지 경로 세팅 (github.io, offline)
-categ
-ories: Editor
+categories: Editor
 tags: typora github.io
 typora-root-url: ../
 ---
