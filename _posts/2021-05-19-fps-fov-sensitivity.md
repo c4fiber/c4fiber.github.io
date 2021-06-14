@@ -40,7 +40,7 @@ https://aiming.pro/mouse-sensitivity-calculator/overwatch
 
 https://jscalc.io/embed/vqOrqXRpMgmwb8tV
 
-![image-20210519180322158](./assets/images/image-20210519180322158.png)
+![image-20210519180322158](/assets/images/image-20210519180322158.png)
 
 
 
