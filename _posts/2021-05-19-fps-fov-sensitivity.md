@@ -3,17 +3,14 @@ title: "FPS sensitivity, FOV setting sites"
 date: 2021-05-19
 categories: Game
 tags: FPS Sensitivity FOV ApexLegends RainbowSix Siege
-typora-root-url:../
-
+typora-root-url: ../
 ---
 
 
 
-(a 방금 알게된건데 yaml정보 작성하고 몇줄을 띄우든 간에 한글을 입력하면 yaml 영역으로 커서가 넘어가버린다. 1. 2. 처럼 번호붙이기를 작성해도 넘어간다 너무짜증나!!!!)
+`written by c4fiber`
 
-
-
-
+추가) 방금 알게된건데 yaml정보 작성하고 몇줄을 띄우든 간에 한글을 입력하면 yaml 영역으로 커서가 넘어가버린다. 1. 2. 처럼 번호붙이기를 작성해도 넘어간다 너무짜증나!!!!)
 
 
 
