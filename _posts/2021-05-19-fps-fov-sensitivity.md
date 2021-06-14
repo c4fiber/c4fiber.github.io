@@ -3,7 +3,7 @@ title: "FPS sensitivity, FOV setting sites"
 date: 2021-05-19
 categories: Game
 tags: FPS Sensitivity FOV ApexLegends RainbowSix Siege
-typora-root-url: ../
+typora-root-url:../
 ---
 
 
@@ -42,7 +42,15 @@ https://aiming.pro/mouse-sensitivity-calculator/overwatch
 
 https://jscalc.io/embed/vqOrqXRpMgmwb8tV
 
-![image-20210519180322158](/assets/images/image-20210519180322158.png)
+![image-20210519180322158](./assets/images/image-20210519180322158.png)
 
 
+
+
+
+4. display size comparison
+
+http://www.displaywars.com/32-inch-16x9-vs-27-inch-16x9
+
+![image-20210614192124190](/_posts/assets/images/image-20210614192124190.png)
 
