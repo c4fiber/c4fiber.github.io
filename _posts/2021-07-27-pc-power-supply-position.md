@@ -57,13 +57,13 @@ https://seasonic.com/how-to-position-your-power-supply?__cf_chl_jschl_tk__=pmd_d
 
 하단 하향 파워
 
-![image-20210727084028637](assets/images/image-20210727084028637.png)
+![image-20210727084028637](/assets/images/image-20210727084028637.png)
 
 
 
 결국 3RSYS L500 제품을 샀다.
 
-![20210707_232622](assets/images/20210707_232622.jpg)
+![20210707_232622](/assets/images/20210707_232622-1627344111557.jpg)
 
 
 
