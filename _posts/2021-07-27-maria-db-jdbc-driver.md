@@ -3,8 +3,12 @@ title: eclipse mariaDB jdbc driver가 작동하는 이유
 categories: Java
 tags: database jdbc driver
 typora-root-url: ../
-
+typora-copy-images-to: ../assets/images
 ---
+
+
+
+
 
 `written by c4fiber`
 
@@ -41,6 +45,8 @@ typora-root-url: ../
 
 
 그래도 의문을 해소한 기분이 들어서 좋기는 하네
+
+
 
 
 
