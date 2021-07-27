@@ -32,7 +32,7 @@ typora-root-url: ../
 
 더불어 주요 파워제조사인 시소닉에서 가이드라인을 작성한 페이지가 있어서 공유한다.
 
-[link]: https://seasonic.com/how-to-position-your-power-supply?__cf_chl_jschl_tk__=pmd_d2f84a37159dc39e95cb398063cf9f6044d2e3b6-1627342257-0-gqNtZGzNAfijcnBszQji "seasonic"
+[seasonic: how to position your power supply](https://seasonic.com/how-to-position-your-power-supply)
 
 
 
