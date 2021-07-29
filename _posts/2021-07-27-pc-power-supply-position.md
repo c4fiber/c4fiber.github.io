@@ -2,6 +2,7 @@
 title: 파워 위치 및 방향 가이드라인
 categories: pc
 typora-root-url: ../
+typora-copy-images-to: ../assets/images
 
 ---
 
