@@ -12,7 +12,7 @@
       "enabled": false
     },
     "format-yaml-array": {
-      "enabled": false,
+      "enabled": true,
       "alias-key": true,
       "tag-key": true,
       "default-array-style": "single-line",
@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "title:\naliases: \ntags: \ndate: "
+      "text-to-insert": "aliases: \ntags: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -236,7 +236,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": false,
