@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_posts"
+}

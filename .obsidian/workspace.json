@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "cd5f88523f9ef448",
+    "type": "split",
+    "children": [
+      {
+        "id": "177e65c17e320b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822b7c884d751580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2021-05-23-Spring-boot-notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20e607af85f1640a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2021-05-18-리눅스 파일시스템 이해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52a1eaffa68a011a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_notes/2023-09-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02d09c872b409304",
+    "type": "split",
+    "children": [
+      {
+        "id": "61071c65d0faf062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a1a6a90ce0f9264",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba28c28d61ee5d4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac7d7d91bc904f11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b4e44d4b842bbac",
+    "type": "split",
+    "children": [
+      {
+        "id": "873a1e082ee427a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af3cfcd6c0fbf129",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_daily_notes/2023-09-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "959a711e628ba4cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_daily_notes/2023-09-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5215f0000417eaa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ed78bb77847a1f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_daily_notes/2023-09-15.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "52a1eaffa68a011a",
+  "lastOpenFiles": [
+    "_posts/2021-05-23-Spring-boot-notes.md",
+    "_daily_notes/2023-09-15.md",
+    "_posts/2021-05-19-fps-fov-sensitivity.md",
+    "_posts/Untitled.md",
+    "_posts/2021-05-18-vscode 및 VS 환경설정.md",
+    "_posts/test for obsidian.md",
+    "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
+    "assets/Pasted image 20230915230524.png",
+    "Untitled.md",
+    "obidian test.md",
+    "README.md",
+    "profile.jpg",
+    "Pasted image 20230915230015.png",
+    "_templates",
+    "_templates",
+    "_daily_notes",
+    "_posts/2021-05-18-리눅스 파일시스템 이해.md",
+    "_posts/2021-05-18-네이버 최저가 검색 엑셀 VBS.md",
+    "_posts/2020-11-29-first-post.md",
+    "_posts/2021-06-09-pc-bluetooth-reconnect-error.md",
+    "_posts/2021-06-19-Adaptive-sync-technologies.md",
+    "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md"
+  ]
+}
