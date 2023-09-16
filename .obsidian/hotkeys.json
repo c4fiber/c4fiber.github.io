@@ -11,10 +11,9 @@
   "daily-notes": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Alt"
       ],
-      "key": "N"
+      "key": "T"
     }
   ]
 }

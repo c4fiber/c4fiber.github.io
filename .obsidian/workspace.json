@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2023-09-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8db2afe45f93feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/Untitled.md",
+                "file": "_templates/Basic Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Untitled.md",
+                "file": "_templates/Basic Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Untitled.md",
+                "file": "_templates/Basic Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Untitled.md"
+                "file": "_templates/Basic Notes.md"
               }
             }
           }
@@ -157,13 +144,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f8db2afe45f93feb",
+  "active": "bee1e8b082342962",
   "lastOpenFiles": [
-    "_daily_notes/2023-09-16.md",
+    "_templates/Basic Notes.md",
     "_posts/Untitled.md",
+    "_posts/Untitled 1.md",
+    "_daily_notes/2023-09-16.md",
     "_templates/Daily template.md",
     "profile.jpg",
     "_daily_notes/2023-09-15.md",

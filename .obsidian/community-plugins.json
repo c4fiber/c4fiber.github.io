@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
