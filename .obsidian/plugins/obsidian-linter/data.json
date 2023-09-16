@@ -49,9 +49,9 @@
       "format": "YYYY-MM-DD, hh:mm a"
     },
     "yaml-title": {
-      "enabled": true,
+      "enabled": false,
       "title-key": "title",
-      "mode": "first-h1"
+      "mode": "filename"
     },
     "yaml-title-alias": {
       "enabled": false,
