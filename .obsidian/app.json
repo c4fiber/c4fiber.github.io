@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/images",
+  "attachmentFolderPath": "assets/images",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "newFileLocation": "folder",
@@ -9,5 +9,6 @@
     "assets/",
     "_templates/"
   ],
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "trashOption": "local"
 }

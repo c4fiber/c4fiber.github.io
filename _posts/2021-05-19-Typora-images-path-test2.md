@@ -13,7 +13,7 @@ typora-root-url: ../
 
 실패링크 1
 
-![image-20210519152934784](/assets/images/image-20210519152934784.png)
+![exexexex](/assets/images/image-20210519152934784.png)
 
 
 

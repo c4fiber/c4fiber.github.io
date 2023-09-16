@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+                "file": "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a37dfaef3de8057f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/images/image-20210331174400883.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+                "file": "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+                "file": "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md"
+                "file": "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md"
               }
             }
           }
@@ -150,21 +160,28 @@
   },
   "active": "29385f75da4dd9da",
   "lastOpenFiles": [
-    "assets/images/obsidian-구조도.md",
-    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
-    "assets/images/obsidian-구조도.png",
+    "assets/images/Pasted image 20230916173626.png",
+    "_posts/assets/images/Pasted image 20230916173350.png",
+    "_posts/assets/images",
+    "_posts/assets",
     "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "_posts/2021-05-19-Typora-images-path-test2.md",
+    "assets/images/image-20210331174400883.png",
+    "assets/images/image-20210331174248599.png",
+    "assets/images/20210707_232622-1627344111557.jpg",
+    "assets/images/FND1kUFVIAMcuX5.jpeg",
+    "assets/images/image-20210519175449596.png",
+    "assets/images/image-20210717192738928-1626517923633.png",
+    "assets/images/image-20210717192752753.png",
+    "assets/images/image-20210727084028637.png",
+    "assets/images/image-20210727084145925-1627343245252.png",
+    "assets/images/image-20210519152934784.png.md",
+    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+    "assets/images/obsidian-구조도.md",
     "01. INDEX/SW사관학교 정글.md",
     "01. INDEX/Game.md",
     "01. INDEX",
-    "assets/images/stove 01-1626517933974.png.png",
-    "assets/images/image-20210514195118584.png",
-    "assets/images/image-20210514195241188.png",
-    "assets/images/stove 04-1626517920966.png.png",
-    "assets/images/stove 03-1626517930325.png.png",
-    "assets/images/stove 02-1626517932014.png.png",
-    "assets/images/image-20210519152934784.png.md",
     "assets/images/image-20210514195507264.png.md",
     "assets/images/image-20210514195038572.png.md",
     "assets/images/image-20210514194305526.png 1.md",
@@ -172,22 +189,17 @@
     "_posts/2022-03-04-baekjoon-1654.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
     "_posts/Untitled 1.md",
-    "profile.jpg",
     "_daily_notes/2023-09-16.md",
     "_templates/Basic Notes.md",
     "_posts/2020-11-29-first-post.md",
     "_sites",
     "_posts/2021-05-18-jsp button disabled.md",
-    "assets/images/01-1621407598516.png",
-    "_posts/2021-05-19-Typora-images-path-test2.md",
-    "assets/images/image-20210609141026512.png",
     "_posts/2021-05-19-fps-fov-sensitivity.md",
     "_posts/2021-05-23-Spring-boot-notes.md",
     "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
     "assets/images/image-20210514194305526.png 4.md",
     "assets/images/image-20210514194305526.png 3.md",
     "assets/images/image-20210514194305526.png 2.md",
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크3.md",
     "0. Inbox",
     "Excalidraw",
     "_templates",
