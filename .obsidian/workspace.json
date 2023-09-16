@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. INDEX/Raspberry pi4.md",
+                "file": "02. Daily Notes/2023-09-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. INDEX/Raspberry pi4.md",
+                "file": "02. Daily Notes/2023-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. INDEX/Raspberry pi4.md",
+                "file": "02. Daily Notes/2023-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. INDEX/Raspberry pi4.md"
+                "file": "02. Daily Notes/2023-09-16.md"
               }
             }
           }
@@ -147,12 +147,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a1a6a90ce0f9264",
+  "active": "29385f75da4dd9da",
   "lastOpenFiles": [
-    "_daily_notes",
+    "_posts/2020-11-29-first-post.md",
+    "02. Daily Notes/2023-09-16.md",
+    "_templates/Daily template.md",
     "_posts/2021-05-18-rpi settings.md",
-    "01. INDEX/Raspberry pi4.md",
     "_posts/2021-05-18-Raspberri pi 4 FTP Server.md",
+    "01. INDEX/Raspberry pi4.md",
+    "02. Daily Notes",
     "_posts/2021-05-19-Typora-images-path-test2.md",
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
@@ -183,16 +186,14 @@
     "_posts/Untitled 1.md",
     "_daily_notes/2023-09-16.md",
     "_templates/Basic Notes.md",
-    "_posts/2020-11-29-first-post.md",
     "_sites",
     "_posts/2021-05-18-jsp button disabled.md",
     "_posts/2021-05-19-fps-fov-sensitivity.md",
     "_posts/2021-05-23-Spring-boot-notes.md",
-    "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
     "0. Inbox",
     "Excalidraw",
     "_templates",
     "_templates",
-    "_daily_notes"
+    "02. Daily Notes"
   ]
 }
