@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5e62adc51f1a693f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
+                "file": "_sites/Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
+                "file": "_sites/Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md"
+                "file": "_sites/Game.md"
               }
             }
           }
@@ -185,15 +173,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e62adc51f1a693f",
+  "active": "74ef6cd7f745a078",
   "lastOpenFiles": [
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "assets/images/image-20210514194305526.png 1.md",
+    "_sites/Game.md",
+    "assets/images/image-20210514194305526.png.md",
     "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "_posts/2022-03-04-baekjoon-1654.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
     "assets/images/Pasted image 20230916171046.png",
-    "_sites/Game.md",
     "_posts/Untitled 1.md",
     "_sites/SW사관학교 정글.md",
     "profile.jpg",
@@ -219,8 +209,6 @@
     "assets/images/image-20210514194305526.png 2.md",
     "assets/images/image-20210514195038572.png.md",
     "assets/images/image-20210517193929048.png",
-    "assets/images/image-20210514194305526.png 1.md",
-    "assets/images/image-20210514194305526.png.md",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크3.md",
     "_templates/Daily template.md",
     "assets/images/stove 03-1626517930325.PNG",
