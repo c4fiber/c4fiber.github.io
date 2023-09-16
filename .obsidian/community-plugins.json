@@ -4,5 +4,6 @@
   "obsidian-kanban",
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-attachment-name-formatting"
 ]
