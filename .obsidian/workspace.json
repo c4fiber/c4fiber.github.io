@@ -23,28 +23,14 @@
             "id": "449261a6b341cfa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_sites/SW사관학교 정글.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74ef6cd7f745a078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_sites/Game.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/stove 01-1626517933974.png.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sites/Game.md",
+                "file": "assets/images/stove 01-1626517933974.png.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sites/Game.md",
+                "file": "assets/images/stove 01-1626517933974.png.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sites/Game.md"
+                "file": "assets/images/stove 01-1626517933974.png.png"
               }
             }
           }
@@ -173,10 +159,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ef6cd7f745a078",
+  "active": "5a1a6a90ce0f9264",
   "lastOpenFiles": [
-    "assets/images/image-20210514194305526.png 1.md",
+    "assets/images/image-20210514195118584.png",
+    "assets/images/image-20210514195241188.png",
+    "assets/images/stove 04-1626517920966.png.png",
+    "assets/images/stove 03-1626517930325.png.png",
+    "assets/images/stove 02-1626517932014.png.png",
+    "assets/images/stove 01-1626517933974.png.png",
+    "_sites/SW사관학교 정글.md",
+    "assets/images/image-20210519152934784.png.md",
+    "assets/images/image-20210514195507264.png.md",
+    "assets/images/image-20210514195038572.png.md",
     "_sites/Game.md",
+    "assets/images/image-20210514194305526.png 1.md",
     "assets/images/image-20210514194305526.png.md",
     "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
@@ -185,7 +181,6 @@
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
     "assets/images/Pasted image 20230916171046.png",
     "_posts/Untitled 1.md",
-    "_sites/SW사관학교 정글.md",
     "profile.jpg",
     "_daily_notes/2023-09-16.md",
     "_templates/Basic Notes.md",
@@ -193,25 +188,16 @@
     "_sites",
     "_posts/2021-05-18-jsp button disabled.md",
     "assets/images/01-1621407598516.png",
-    "assets/images/image-20210519152934784.png.md",
     "_posts/2021-05-19-Typora-images-path-test2.md",
     "assets/images/image-20210609141026512.png",
     "_posts/2021-05-19-fps-fov-sensitivity.md",
     "_posts/2021-05-23-Spring-boot-notes.md",
     "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
     "assets/images/profile.jpg",
-    "assets/images/image-20210514195507264.png.md",
-    "assets/images/sop.png",
-    "assets/images/Pasted image 20230916141537.png",
-    "assets/images/Pasted image 20230916151051.png",
     "assets/images/image-20210514194305526.png 4.md",
     "assets/images/image-20210514194305526.png 3.md",
     "assets/images/image-20210514194305526.png 2.md",
-    "assets/images/image-20210514195038572.png.md",
-    "assets/images/image-20210517193929048.png",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크3.md",
-    "_templates/Daily template.md",
-    "assets/images/stove 03-1626517930325.PNG",
     "0. Inbox",
     "Excalidraw",
     "_templates",
