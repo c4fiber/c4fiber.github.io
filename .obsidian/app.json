@@ -8,5 +8,6 @@
   "userIgnoreFilters": [
     "assets/",
     "_templates/"
-  ]
+  ],
+  "useMarkdownLinks": true
 }

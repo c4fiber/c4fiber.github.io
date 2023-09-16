@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9d9c3aef1a0fbf",
+        "id": "7fff6ee2bb016d90",
         "type": "tabs",
         "children": [
           {
-            "id": "f2b22718506192e3",
+            "id": "29385f75da4dd9da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449261a6b341cfa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. INDEX/Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7c5dd15cb892e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. INDEX/SW사관학교 정글.md",
+                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글.md",
+                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글.md",
+                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글.md"
+                "file": "_posts/2023-09-16-옵시디언 사용 구조 확립.md"
               }
             }
           }
@@ -173,11 +148,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a1a6a90ce0f9264",
+  "active": "29385f75da4dd9da",
   "lastOpenFiles": [
-    "01. INDEX/Game.md",
-    "01. INDEX/SW사관학교 정글.md",
+    "assets/images/obsidian-구조도.md",
+    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "assets/images/obsidian-구조도.png",
     "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
+    "01. INDEX/SW사관학교 정글.md",
+    "01. INDEX/Game.md",
     "01. INDEX",
     "assets/images/stove 01-1626517933974.png.png",
     "assets/images/image-20210514195118584.png",
@@ -190,11 +169,8 @@
     "assets/images/image-20210514195038572.png.md",
     "assets/images/image-20210514194305526.png 1.md",
     "assets/images/image-20210514194305526.png.md",
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
-    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "_posts/2022-03-04-baekjoon-1654.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
-    "assets/images/Pasted image 20230916171046.png",
     "_posts/Untitled 1.md",
     "profile.jpg",
     "_daily_notes/2023-09-16.md",
