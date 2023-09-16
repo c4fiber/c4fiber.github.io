@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "assets/images",
+  "attachmentFolderPath": "/assets/images",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "newFileLocation": "folder",
