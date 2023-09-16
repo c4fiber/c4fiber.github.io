@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a69c5b887f0d46",
+        "id": "12a8c5ddd1ffbe05",
         "type": "tabs",
         "children": [
           {
-            "id": "bee1e8b082342962",
+            "id": "3e3d93710210d22c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/images/01-1621407598516.png"
+              }
+            }
+          },
+          {
+            "id": "633fa0cbd2c5fcaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Basic Notes.md",
+                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Basic Notes.md",
+                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Basic Notes.md",
+                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Basic Notes.md"
+                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md"
               }
             }
           }
@@ -148,10 +159,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bee1e8b082342962",
+  "active": "633fa0cbd2c5fcaa",
   "lastOpenFiles": [
+    "assets/images/01-1621407598516.png",
+    "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
+    "assets/images/profile.jpg",
+    "assets/images/image-20210514195507264.png.md",
+    "assets/images/sop.png",
+    "assets/images/Pasted image 20230916141537.png",
+    "assets/images/Pasted image 20230916151051.png",
+    "assets/images/image-20210514194305526.png 4.md",
+    "assets/images/image-20210514194305526.png 3.md",
+    "assets/images/image-20210514194305526.png 2.md",
+    "assets/images/image-20210514195038572.png.md",
+    "assets/images/image-20210517193929048.png",
+    "assets/images/image-20210514194305526.png 1.md",
+    "assets/images/image-20210514194305526.png.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크3.md",
     "_templates/Basic Notes.md",
-    "_posts/Untitled.md",
     "_posts/Untitled 1.md",
     "_daily_notes/2023-09-16.md",
     "_templates/Daily template.md",
@@ -161,15 +187,9 @@
     "0. Inbox",
     "assets/images/stove 04-1626517920966.PNG",
     "assets/images/test1.png",
-    "assets/images/Pasted image 20230916141537.png",
     "assets/2023-09-15 2023-09-16 13.50.38.excalidraw.md",
     "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
     "_posts/2021-05-23-Spring-boot-notes.md",
-    "assets/Pasted image 20230915230524.png",
-    "assets/Pasted image 20230916133245.png",
-    "assets/Pasted image 20230916133226.png",
-    "assets/Pasted image 20230916141101.png",
-    "assets/Pasted image 20230916141023.png",
     "Excalidraw/Drawing 2023-09-16 13.45.04.excalidraw.md",
     "_posts/2021-05-18-리눅스 파일시스템 이해.md",
     "Excalidraw",
@@ -178,15 +198,8 @@
     "_posts/test for obsidian.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
     "Untitled.md",
-    "obidian test.md",
-    "README.md",
     "_templates",
     "_templates",
-    "_daily_notes",
-    "_posts/2021-05-18-네이버 최저가 검색 엑셀 VBS.md",
-    "_posts/2020-11-29-first-post.md",
-    "_posts/2021-06-09-pc-bluetooth-reconnect-error.md",
-    "_posts/2021-06-19-Adaptive-sync-technologies.md",
-    "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md"
+    "_daily_notes"
   ]
 }
