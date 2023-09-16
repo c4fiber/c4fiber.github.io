@@ -7,7 +7,7 @@
     "_"
   ],
   "multipleConnectorsEnabled": [
-    true,
+    false,
     true,
     true
   ],
@@ -48,8 +48,8 @@
   "pdf": "pdf",
   "oneInMany": "Default",
   "enableAuto": true,
-  "enableTime": false,
-  "enableExcludeFileName": false,
+  "enableTime": true,
+  "enableExcludeFileName": true,
   "excludedFolders": [],
   "subfolders": [
     "",
