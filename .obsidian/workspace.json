@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "12a8c5ddd1ffbe05",
+        "id": "4c9d9c3aef1a0fbf",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3d93710210d22c",
+            "id": "f2b22718506192e3",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/images/01-1621407598516.png"
-              }
-            }
-          },
-          {
-            "id": "633fa0cbd2c5fcaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,9 +140,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "633fa0cbd2c5fcaa",
+  "active": "f2b22718506192e3",
   "lastOpenFiles": [
+    "_posts/2021-05-18-jsp button disabled.md",
     "assets/images/01-1621407598516.png",
+    "assets/images/image-20210519152934784.png.md",
+    "_posts/2021-05-19-Typora-images-path-test2.md",
+    "assets/images/image-20210609141026512.png",
+    "_posts/2021-05-19-fps-fov-sensitivity.md",
+    "_posts/2021-05-23-Spring-boot-notes.md",
     "_posts/2021-05-18-에이펙스-레전드-VPN-사용하기.md",
     "assets/images/profile.jpg",
     "assets/images/image-20210514195507264.png.md",
@@ -186,18 +173,13 @@
     "assets/images/stove 03-1626517930325.PNG",
     "0. Inbox",
     "assets/images/stove 04-1626517920966.PNG",
-    "assets/images/test1.png",
     "assets/2023-09-15 2023-09-16 13.50.38.excalidraw.md",
     "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
-    "_posts/2021-05-23-Spring-boot-notes.md",
     "Excalidraw/Drawing 2023-09-16 13.45.04.excalidraw.md",
     "_posts/2021-05-18-리눅스 파일시스템 이해.md",
     "Excalidraw",
-    "_posts/2021-05-19-fps-fov-sensitivity.md",
     "_posts/2021-05-18-vscode 및 VS 환경설정.md",
     "_posts/test for obsidian.md",
-    "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
-    "Untitled.md",
     "_templates",
     "_templates",
     "_daily_notes"

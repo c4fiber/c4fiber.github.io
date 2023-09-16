@@ -50,5 +50,5 @@ https://jscalc.io/embed/vqOrqXRpMgmwb8tV
 
 http://www.displaywars.com/32-inch-16x9-vs-27-inch-16x9
 
-![image-20210614192124190](/_posts/assets/images/image-20210614192124190.png)
+![image-20210614192124190](/assets/images/image-20210614192124190.png)
 
