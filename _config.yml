@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Inshallah, Carpe diem"
+title                    : "Great balls of fire!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "c4fiber's World"
@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** idiot."
   location         : "Somewhere"
-  email            :
+  email            : qudcjf153@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
