@@ -1,4 +1,5 @@
 {
+  "templater-obsidian:create-new-note-from-template": [],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
     {
       "modifiers": [
@@ -8,10 +9,20 @@
       "key": "D"
     }
   ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
   "daily-notes": [
     {
       "modifiers": [
-        "Alt"
+        "Ctrl",
+        "Shift"
       ],
       "key": "T"
     }
