@@ -246,14 +246,7 @@
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
-  "customRegexes": [
-    {
-      "label": "",
-      "find": "![]()assets/images/",
-      "replace": "![]()/assets/images/",
-      "flags": "gm"
-    }
-  ],
+  "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
     "tagArrayStyle": "single-line",

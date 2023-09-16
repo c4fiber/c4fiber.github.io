@@ -5,5 +5,6 @@
   "obsidian-git",
   "templater-obsidian",
   "obsidian-linter",
-  "obsidian-attachment-name-formatting"
+  "obsidian-regex-replace",
+  "obsidian-regex-pipeline"
 ]
