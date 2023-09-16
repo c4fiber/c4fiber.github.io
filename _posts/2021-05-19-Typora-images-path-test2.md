@@ -1,8 +1,11 @@
 ---
+aliases: 
 title: Typora 이미지 경로 세팅 (github.io, offline)
 categories: Editor
 tags: typora github.io
 typora-root-url: ../
+date created: Friday, September 15th 2023, 10:43 pm
+date modified: Saturday, September 16th 2023, 05:44 pm
 ---
 
 
@@ -12,8 +15,6 @@ typora-root-url: ../
 
 
 실패링크 1
-
-![exexexex](/assets/images/image-20210519152934784.png)
 
 
 
