@@ -2,7 +2,7 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-linter",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-linter"
 ]
