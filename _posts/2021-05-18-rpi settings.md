@@ -1,11 +1,14 @@
 ---
-tile: "Raspberry pi 4 settings"
-date: 2021-05-18
+aliases:
+  - raspi setting
+tags:
+  - raspi4
+title: Raspberry pi 4 settings
 categories: armv7 arm64 rpi rpi4 dhcp
 typora-root-url: ../
+date created: FridaSuy, ndaSeptem5be5ry,35 M3ay 138th 2021, 10:43 pm
+date modified: Saturday, September 16th 2023, 05:510 pm
 ---
-
-
 
 ## DHCP auto connnect
 
