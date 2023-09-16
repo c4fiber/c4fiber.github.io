@@ -14,4 +14,4 @@ date modified: Saturday, September 16th 2023, 04:33 pm
 
 ## week 06 웹서버 만들기
 
-[[_posts/SW사관학교 정글 7기 week06 웹서버 만들기|SW사관학교 정글 7기 week06 웹서버 만들기]]
+[[_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기|2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기]]

@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "assets/images",
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",

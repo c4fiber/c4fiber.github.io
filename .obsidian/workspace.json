@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글.md",
+                "file": "_sites/SW사관학교 정글.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2023-09-16.md",
+                "file": "_sites/SW사관학교 정글.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74ef6cd7f745a078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_sites/Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e62adc51f1a693f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_notes/2023-09-16.md",
+                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_notes/2023-09-16.md",
+                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_notes/2023-09-16.md"
+                "file": "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md"
               }
             }
           }
@@ -161,15 +185,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "449261a6b341cfa4",
+  "active": "5e62adc51f1a693f",
   "lastOpenFiles": [
-    "01. INDEX/Game.md",
-    "01. INDEX/SW사관학교 정글.md",
-    "_templates/Basic Notes.md",
-    "_posts/SW사관학교 정글 7기 week06 웹서버 만들기.md",
-    "_posts/2020-11-29-first-post.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "_posts/2023-09-16-SW사관학교 정글 7기 week06 웹서버 만들기.md",
+    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+    "_posts/2022-03-04-baekjoon-1654.md",
+    "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
+    "assets/images/Pasted image 20230916171046.png",
+    "_sites/Game.md",
     "_posts/Untitled 1.md",
-    "01. INDEX",
+    "_sites/SW사관학교 정글.md",
+    "profile.jpg",
+    "_daily_notes/2023-09-16.md",
+    "_templates/Basic Notes.md",
+    "_posts/2020-11-29-first-post.md",
+    "_sites",
     "_posts/2021-05-18-jsp button disabled.md",
     "assets/images/01-1621407598516.png",
     "assets/images/image-20210519152934784.png.md",
@@ -190,17 +221,10 @@
     "assets/images/image-20210517193929048.png",
     "assets/images/image-20210514194305526.png 1.md",
     "assets/images/image-20210514194305526.png.md",
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크3.md",
-    "_daily_notes/2023-09-16.md",
     "_templates/Daily template.md",
-    "profile.jpg",
-    "_daily_notes/2023-09-15.md",
     "assets/images/stove 03-1626517930325.PNG",
     "0. Inbox",
-    "assets/images/stove 04-1626517920966.PNG",
-    "assets/2023-09-15 2023-09-16 13.50.38.excalidraw.md",
-    "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
     "Excalidraw",
     "_templates",
     "_templates",
