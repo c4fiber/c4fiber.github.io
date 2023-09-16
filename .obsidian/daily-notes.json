@@ -1,4 +1,5 @@
 {
   "autorun": true,
-  "folder": "_daily_notes"
+  "folder": "_daily_notes",
+  "template": "_templates"
 }

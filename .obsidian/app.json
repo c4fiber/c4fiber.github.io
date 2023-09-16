@@ -1,7 +1,13 @@
 {
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "assets/images",
   "alwaysUpdateLinks": false,
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "_posts"
+  "newFileFolderPath": "_posts",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "_plugins/",
+    "assets/",
+    "_templates/"
+  ]
 }

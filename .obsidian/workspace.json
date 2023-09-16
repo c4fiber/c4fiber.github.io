@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-05-23-Spring-boot-notes.md",
+                "file": "_daily_notes/2023-09-15.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "20e607af85f1640a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
+                "file": "_daily_notes/2023-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
+                "file": "_daily_notes/2023-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md"
+                "file": "_daily_notes/2023-09-15.md"
               }
             }
           }
@@ -156,62 +147,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "551728f95928ccd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "64c5be82c8e0f188",
-        "type": "window",
-        "children": [
-          {
-            "id": "3bd8850cf427bb2a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eece2b74355858e3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1747,
-        "y": 1209,
-        "width": 1024,
-        "height": 717,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "eece2b74355858e3",
+  "active": "822b7c884d751580",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-16 13.45.04.excalidraw.md",
+    "assets/images/stove 03-1626517930325.PNG",
+    "0. Inbox",
+    "assets/images/stove 04-1626517920966.PNG",
+    "assets/images/test1.png",
     "_daily_notes/2023-09-15.md",
-    "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
+    "assets/images/Pasted image 20230916141537.png",
+    "profile.jpg",
     "assets/2023-09-15 2023-09-16 13.50.38.excalidraw.md",
-    "_posts/2021-05-18-리눅스 파일시스템 이해.md",
-    "Excalidraw",
+    "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
+    "_posts/2021-05-23-Spring-boot-notes.md",
+    "assets/Pasted image 20230915230524.png",
     "assets/Pasted image 20230916133245.png",
     "assets/Pasted image 20230916133226.png",
-    "_posts/2021-05-23-Spring-boot-notes.md",
+    "assets/Pasted image 20230916141101.png",
+    "assets/Pasted image 20230916141023.png",
+    "Excalidraw/Drawing 2023-09-16 13.45.04.excalidraw.md",
+    "_posts/2021-05-18-리눅스 파일시스템 이해.md",
+    "Excalidraw",
     "_posts/2021-05-19-fps-fov-sensitivity.md",
     "_posts/Untitled.md",
     "_posts/2021-05-18-vscode 및 VS 환경설정.md",
     "_posts/test for obsidian.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
-    "assets/Pasted image 20230915230524.png",
     "Untitled.md",
     "obidian test.md",
     "README.md",
-    "profile.jpg",
     "Pasted image 20230915230015.png",
     "_templates",
     "_templates",
