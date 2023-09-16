@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "177e65c17e320b80",
+        "id": "d2a69c5b887f0d46",
         "type": "tabs",
         "children": [
           {
-            "id": "822b7c884d751580",
+            "id": "bee1e8b082342962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_notes/2023-09-15.md",
+                "file": "_daily_notes/2023-09-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8db2afe45f93feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_notes/2023-09-15.md",
+                "file": "_posts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_notes/2023-09-15.md",
+                "file": "_posts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_notes/2023-09-15.md"
+                "file": "_posts/Untitled.md"
               }
             }
           }
@@ -147,15 +160,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "822b7c884d751580",
+  "active": "f8db2afe45f93feb",
   "lastOpenFiles": [
+    "_daily_notes/2023-09-16.md",
+    "_posts/Untitled.md",
+    "_templates/Daily template.md",
+    "profile.jpg",
+    "_daily_notes/2023-09-15.md",
     "assets/images/stove 03-1626517930325.PNG",
     "0. Inbox",
     "assets/images/stove 04-1626517920966.PNG",
     "assets/images/test1.png",
-    "_daily_notes/2023-09-15.md",
     "assets/images/Pasted image 20230916141537.png",
-    "profile.jpg",
     "assets/2023-09-15 2023-09-16 13.50.38.excalidraw.md",
     "assets/2023-09-15 2023-09-16 13.51.23.excalidraw.md",
     "_posts/2021-05-23-Spring-boot-notes.md",
@@ -168,14 +184,12 @@
     "_posts/2021-05-18-리눅스 파일시스템 이해.md",
     "Excalidraw",
     "_posts/2021-05-19-fps-fov-sensitivity.md",
-    "_posts/Untitled.md",
     "_posts/2021-05-18-vscode 및 VS 환경설정.md",
     "_posts/test for obsidian.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
     "Untitled.md",
     "obidian test.md",
     "README.md",
-    "Pasted image 20230915230015.png",
     "_templates",
     "_templates",
     "_daily_notes",
