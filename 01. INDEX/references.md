@@ -25,3 +25,6 @@ date created: 2023-09-17 20:32
 ## MAN7
 [getaddrinfo()](https://man7.org/linux/man-pages/man3/getaddrinfo.3.html)
 
+## RFC
+
+[RFC 2616](https://www.rfc-editor.org/info/rfc2616)
