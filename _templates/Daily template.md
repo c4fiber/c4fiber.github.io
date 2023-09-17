@@ -2,7 +2,7 @@
 title: Daily Note
 aliases: 
 tags: 
-date created: 2023-09-16, 02:22 pm
+date created: '<% tp.file_creation_date(format: string = "YYYY-MM-DD T HH:mm") %>'
 date modified: 2023-09-16, 07:44 pm
 ---
 
