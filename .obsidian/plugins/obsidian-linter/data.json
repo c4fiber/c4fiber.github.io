@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "aliases: \ntags: "
+      "text-to-insert": "title: \naliases: \ntags: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
