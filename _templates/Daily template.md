@@ -2,11 +2,12 @@
 title: Daily Note
 aliases: 
 tags: 
-date created: '<% tp.file_creation_date(format: string = "YYYY-MM-DD T HH:mm") %>'
-date modified: 2023-09-16, 07:44 pm
+date created: <% tp.file.creation_date(format: string = "YYYY-MM-DD HH:mm") %>
+date modified: <% tp.file.creation_date(format: string = "YYYY-MM-DD HH:mm") %>
 ---
+<% tp.frontmatter["date created"] = "test" %>
+<% tp.date.now("YYYY-MM-DD", -1) %>
 
-<% tp.file.creation_date(format: string = "YYYY-MM_DD T HH:mm") %>
 
 ## Tasks
 
