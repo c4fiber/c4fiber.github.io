@@ -3,11 +3,10 @@ title: AI_ADDRCONFIG flag의 역할
 aliases: 
 tags: 
 date created: 2023-09-17 14:39
-date modified: 2023-09-17 14:47
 ---
 ## 왜 hints.ai_family = AF_INET을 수행하지 않는가?
 
-![](assets/images/Pasted%20image%2020230917144308.png)
+![](/assets/images/Pasted%20image%2020230917144308.png)
 
 p. 970 csapp.c 내용을 보면 hints.ai_family = AF_INET을 설정하는 부분이 없다.
 해당 코드는 IPv4를 사용하겠다는 hint를 제공하기 위함인데 왜 사용하지 않았을까?

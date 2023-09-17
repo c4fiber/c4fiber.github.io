@@ -44,7 +44,7 @@
       "date-created": true,
       "date-created-key": "date created",
       "force-retention-of-create-value": false,
-      "date-modified": true,
+      "date-modified": false,
       "date-modified-key": "date modified",
       "format": "YYYY-MM-DD HH:mm"
     },
