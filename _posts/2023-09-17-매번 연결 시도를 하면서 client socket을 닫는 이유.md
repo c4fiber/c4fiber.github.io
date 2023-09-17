@@ -1,6 +1,7 @@
 ---
-title: 매번 연결 시도를 하면서 client socket을 닫는 이유
-aliases: 
+title: 소켓통신에서 매번 연결 시도를 하면서 client socket을 닫는 이유
+aliases:
+  - socket 재사용
 tags: 
 date created: 2023-09-17 15:13
 ---
