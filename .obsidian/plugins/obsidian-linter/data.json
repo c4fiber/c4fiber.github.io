@@ -46,7 +46,7 @@
       "force-retention-of-create-value": false,
       "date-modified": true,
       "date-modified-key": "date modified",
-      "format": "YYYY-MM-DD T hh:mm a"
+      "format": "YYYY-MM-DD HH:mm"
     },
     "yaml-title": {
       "enabled": false,
@@ -236,7 +236,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": false,

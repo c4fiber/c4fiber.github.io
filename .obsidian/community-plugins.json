@@ -3,8 +3,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-git",
-  "templater-obsidian",
-  "obsidian-linter",
   "obsidian-regex-replace",
-  "obsidian-regex-pipeline"
+  "obsidian-regex-pipeline",
+  "obsidian-linter"
 ]
