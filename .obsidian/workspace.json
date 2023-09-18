@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2023-09-16.md",
+                "file": "02. Daily Notes/2023-09-18.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9f79021b0dbf78e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           }
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2023-09-16.md",
+                "file": "02. Daily Notes/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2023-09-16.md",
+                "file": "02. Daily Notes/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2023-09-16.md"
+                "file": "02. Daily Notes/2023-09-18.md"
               }
             }
           }
@@ -150,15 +160,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-regex-pipeline:Regex Rulesets": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -177,10 +186,8 @@
                 "id": "11a98f9c845cf7b7",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "assets/images/2023-09-16 2023-09-16 19.52.28.excalidraw.md"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
