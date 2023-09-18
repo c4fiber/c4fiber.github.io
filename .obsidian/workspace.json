@@ -170,41 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "551728f95928ccd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b6726c548b35d124",
-        "type": "window",
-        "children": [
-          {
-            "id": "f5c011655485a589",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "11a98f9c845cf7b7",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 343,
-        "y": 98,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "69da928bcad6989d",
   "lastOpenFiles": [
+    "02. Daily Notes/2023-09-18.md",
     "assets/images/2023-09-16 2023-09-16 19.52.28.excalidraw.md",
     "02. Daily Notes/2023-09-16.md",
     "_templates/Daily template.md",
@@ -244,7 +212,6 @@
     "_posts/2022-03-04-baekjoon-1654.md",
     "_posts/2022-09-03-Typora를 사용한 블로그 작성 리마인드.md",
     "_posts/Untitled 1.md",
-    "_daily_notes/2023-09-16.md",
     "_sites",
     "0. Inbox",
     "Excalidraw",
