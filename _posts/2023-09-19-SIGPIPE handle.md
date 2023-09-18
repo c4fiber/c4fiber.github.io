@@ -7,6 +7,9 @@ aliases:
 tags: 
 date created: 2023-09-19 02:00
 ---
+
+![](/assets/images/Pasted%20image%2020230919022307.png)
+
 ## SIGPIPE error는 왜 발생하는가?
 
 소켓 통신을 통해서 client에게 데이터를 전달하던 도중 client가 소켓을 닫아버리는 경우가 있다.
