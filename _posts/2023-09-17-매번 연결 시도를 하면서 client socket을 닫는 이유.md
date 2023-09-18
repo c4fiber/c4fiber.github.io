@@ -2,7 +2,8 @@
 title: 소켓통신에서 매번 연결 시도를 하면서 client socket을 닫는 이유
 aliases:
   - socket 재사용
-tags: 
+tags:
+  - in_progress
 date created: 2023-09-17 15:13
 ---
 ![](/assets/images/Pasted%20image%2020230917151510.png)
@@ -10,7 +11,7 @@ date created: 2023-09-17 15:13
 왜 사용한 client socket을 재사용하지 않을까?
 
 
-**chatgpt 답변**
+## chatgpt 답변
 
 하나의 클라이언트 소켓을 여러 호스트의 IP 주소로 연결 시도하는 것은 가능하지만, 실패 시마다 소켓을 닫고 다시 생성하는 접근 방식은 일반적으로 효율적이지 않을 수 있습니다. 그러나 이렇게 처리하는 이유는 다음과 같을 수 있습니다:
 

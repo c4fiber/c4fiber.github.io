@@ -1,21 +1,19 @@
 ---
 title: 왜 connect()에 실패한 clientfd를 재사용하지 않는가?
 aliases: 
-tags: 
+tags:
+  - in_progress
 date created: 2023-09-17 15:48
 ---
 모르겠다 찾아보자
 
 https://www.google.com/search?q=what+happened+if+c+socket+connect+failed&sourceid=chrome&ie=UTF-8
 
-
-
-
 https://stackoverflow.com/questions/17307779/why-cant-bind-to-0-0-0-080-and-192-168-1-180-simultaneously?noredirect=1&lq=1
 
 https://stackoverflow.com/questions/14388706/how-do-so-reuseaddr-and-so-reuseport-differ/14388707#14388707
 
-### 같은 client 소켓으로 여러 host에 연결요청을 하면 안되는 이유
+## chatgpt 답변
 
 하나의 클라이언트 소켓으로 여러 호스트에 연결 요청을 하는 것은 특정 상황에서는 문제가 발생할 수 있습니다. 이러한 상황 및 이유는 다음과 같습니다:
 

@@ -4,15 +4,10 @@ aliases:
 tags: 
 date created:
 ---
-
-
-
 ## Tasks
 
 - [ ] Today review
 
-
-## GOAL
 
 
 ## TIL
