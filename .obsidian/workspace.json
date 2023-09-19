@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-07-27-pc-power-supply-position.md",
+                "file": "_posts/2023-09-19-SIGPIPE handle.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-07-27-pc-power-supply-position.md",
+                "file": "_posts/2023-09-19-SIGPIPE handle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-07-27-pc-power-supply-position.md",
+                "file": "_posts/2023-09-19-SIGPIPE handle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-07-27-pc-power-supply-position.md"
+                "file": "_posts/2023-09-19-SIGPIPE handle.md"
               }
             }
           }
@@ -196,6 +196,7 @@
   },
   "active": "697a9dc7ece44b9d",
   "lastOpenFiles": [
+    "_posts/2021-07-27-pc-power-supply-position.md",
     "_posts/2021-07-15-lostark-client-error.md",
     "02. Daily Notes/2023-09-19.md",
     "02. Daily Notes/2023-09-18.md",
@@ -235,7 +236,6 @@
     "01. INDEX",
     "assets/images/image-20210514195507264.png.md",
     "assets/images/image-20210514195038572.png.md",
-    "assets/images/image-20210514194305526.png 1.md",
     "_sites",
     "0. Inbox",
     "Excalidraw",

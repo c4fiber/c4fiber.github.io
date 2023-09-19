@@ -8,6 +8,12 @@ tags:
 date created: 2023-09-19 02:00
 ---
 
+## 추가내용
+원인은 HTTP response header에 있었다.
+HTTP/1.0 은 헤더의 대소문자를 구분하는데 나는 "Content-Length"에서 Length의 L을 소문자로 작성해서 발생한 문제였다.
+
+클라이언트는 Content-Length에 대한 내용을 받지 못하고, 모종의 이유로 패킷이 나눠서 전송될 경우 
+
 ![](/assets/images/Pasted%20image%2020230919022307.png)
 
 ## SIGPIPE error는 왜 발생하는가?
@@ -22,9 +28,9 @@ date created: 2023-09-19 02:00
 이 순간 서버는 SIGPIPE(Connection reset by peer, broken pipe)에 직면하게 된다.
 
 
-## 어떻게 해결할 것인가?
+## 어떻게 처리 할 것인가?
 
-해결 방법은 두가지가 있다.
+방법은 두가지가 있다.
 1. SIGPIPE 에러 자체를 무시해버린다.
 	- `signal(SIGPIPE, SIG_IGN)` 를 호출한다. (주로 main에서 이루어짐)
 2. Socket을 생성할 때 SIGPIPE 에러를 무시하도록 설정한다.
@@ -36,15 +42,11 @@ date created: 2023-09-19 02:00
 
 나는 csapp.c 파일을 수정하지 말아야 한다는 원칙아래 1번의 방법을 선택했다.
 
-시간 진짜 많이 썼다...
-
-
 
 ## 참고 자료
 https://stackoverflow.com/questions/108183/how-to-prevent-sigpipes-or-handle-them-properly
 
 https://stackoverflow.com/questions/108183/how-to-prevent-sigpipes-or-handle-them-properly
-
 
 
 
