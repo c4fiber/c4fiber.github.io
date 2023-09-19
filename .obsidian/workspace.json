@@ -112,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f79021b0dbf78e9",
+  "active": "ba28c28d61ee5d4a",
   "lastOpenFiles": [
     "_posts/2023-09-19-SIGPIPE handle.md",
     "_posts/2021-07-27-pc-power-supply-position.md",
