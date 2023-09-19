@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-19-SIGPIPE handle.md",
+                "file": "02. Daily Notes/2023-09-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e8b71fe76cb1c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md"
+              }
             }
           }
         ]
@@ -191,8 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba28c28d61ee5d4a",
+  "active": "3e8b71fe76cb1c6b",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20230920071644.png",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-09-20-Rio_readinitb의 역할.md",
+    "02. Daily Notes/2023-09-20.md",
     "_posts/2023-09-19-SIGPIPE handle.md",
     "_posts/2021-07-27-pc-power-supply-position.md",
     "_posts/2021-07-15-lostark-client-error.md",
@@ -228,11 +247,7 @@
     "assets/images/image-20210717192738928-1626517923633.png",
     "assets/images/image-20210717192752753.png",
     "assets/images/image-20210519152934784.png.md",
-    "assets/images/obsidian-구조도.md",
-    "01. INDEX/Game.md",
     "01. INDEX",
-    "assets/images/image-20210514195507264.png.md",
-    "assets/images/image-20210514195038572.png.md",
     "_sites",
     "0. Inbox",
     "Excalidraw",
