@@ -1,5 +1,5 @@
 ---
-title: 
+title: Daily Note
 aliases: 
 tags: 
 date created:
