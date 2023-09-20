@@ -196,23 +196,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-regex-pipeline:Regex Rulesets": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
   "active": "3e8b71fe76cb1c6b",
   "lastOpenFiles": [
+    "_posts/2023-09-19-SIGPIPE handle.md",
+    "_posts/2023-09-20-Rio_readinitb의 역할.md",
+    "assets/images/Pasted image 20230920174837.png",
     "assets/images/Pasted image 20230920071644.png",
     "01. INDEX/SW사관학교 정글 7기.md",
-    "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "02. Daily Notes/2023-09-20.md",
-    "_posts/2023-09-19-SIGPIPE handle.md",
     "_posts/2021-07-27-pc-power-supply-position.md",
     "_posts/2021-07-15-lostark-client-error.md",
     "02. Daily Notes/2023-09-19.md",
@@ -244,8 +245,6 @@
     "assets/images/20210707_232622-1627344111557.jpg",
     "assets/images/FND1kUFVIAMcuX5.jpeg",
     "assets/images/image-20210519175449596.png",
-    "assets/images/image-20210717192738928-1626517923633.png",
-    "assets/images/image-20210717192752753.png",
     "assets/images/image-20210519152934784.png.md",
     "01. INDEX",
     "_sites",
