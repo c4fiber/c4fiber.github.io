@@ -26,6 +26,11 @@ C 언어로 작성된 소켓 프로그래밍을 기반으로 한다.
 open_clientfd()
 [2023-09-17-AI_ADDRCONFIG flag의 역할](_posts/2023-09-17-AI_ADDRCONFIG%20flag의%20역할.md)
 
+
+## week07 PintOS project 1-2
+
+참고도서: https://pages.cs.wisc.edu/~remzi/OSTEP/
+
 ### 참고한 정답 코드
 
 proxy: cached 
