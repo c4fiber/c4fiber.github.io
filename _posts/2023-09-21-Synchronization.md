@@ -24,3 +24,13 @@ Pintos에서 preemptible kernel이라는 뜻은 커널 스레드는 언제든지
 몇몇 외부 인터럽트는 연기될 수 없다. 심지어 인터럽트 비활성화로도! 이러한 인터럽트는 non-maskable interrupts(NMIs)라고 하며 주로 긴급한 상황에서만 사용된다.
 예를 들어 컴퓨터가 불에 붙으면 Pintos는 non-maskable interrupts를 handle하지 않는다.
 
+인터럽트 활성화&비활성화 타입과 함수는 `include/threads/interrupt.h` 에 있다.
+
+
+## 세마포어 Semaphores
+
+부호가 없는 정수이며 두 operation의 원자성을 해치지 않게 다룬다.
+
+Down, P: 세마포어의 값이 positive가 될 때 까지 기다린다. positive가 되면 값을 하나 감소시킨다.
+Up, V: 값을 증가시키고 대기하는 하나의 스레드를 깨운다.
+
