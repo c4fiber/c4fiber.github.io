@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "8a28453e63b6d844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-21-Synchronization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "697a9dc7ece44b9d",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md"
+                "file": "_posts/2023-09-21-Synchronization.md"
               }
             }
           }
@@ -206,8 +218,10 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "3e8b71fe76cb1c6b",
+  "active": "8a28453e63b6d844",
   "lastOpenFiles": [
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-09-21-Synchronization.md",
     "assets/images/Pasted image 20230921172044.png",
     "02. Daily Notes/2023-09-21.md",
     "_templates/Daily template.md",
@@ -215,7 +229,6 @@
     "_posts/2023-09-19-SIGPIPE handle.md",
     "assets/images/Pasted image 20230920174837.png",
     "assets/images/Pasted image 20230920071644.png",
-    "01. INDEX/SW사관학교 정글 7기.md",
     "02. Daily Notes/2023-09-20.md",
     "_posts/2021-07-27-pc-power-supply-position.md",
     "_posts/2021-07-15-lostark-client-error.md",
@@ -246,7 +259,6 @@
     "assets/images/image-20210331174248599.png",
     "assets/images/20210707_232622-1627344111557.jpg",
     "assets/images/FND1kUFVIAMcuX5.jpeg",
-    "assets/images/image-20210519175449596.png",
     "01. INDEX",
     "_sites",
     "0. Inbox",

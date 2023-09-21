@@ -40,7 +40,9 @@ pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
 
 - pintos 루트 디렉토리에 환경세팅하기 -> .bashrc에 저장해두면 매번 수행할 필요가 없어진다.
 ![](assets/images/Pasted%20image%2020230921172044.png)
-
+- `pintos -- run alarm-multiple > logfile` serial 출력을 log로 저장하는 실행 방법
+	- 옵션을 추가한다면 -- 앞에다가 추가해라 -> --를 기준으로 앞은 옵션, 뒤는 인자로 나뉜다.
+- test를 진행할 때 `VERBOSE=1` 옵션을 추가하면 테스트 진행상황을 볼 수 있다.
 
 
 참고도서: https://pages.cs.wisc.edu/~remzi/OSTEP/
