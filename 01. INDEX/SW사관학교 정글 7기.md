@@ -35,6 +35,14 @@ https://github.com/vmsandeeprao/HTTP-proxy-server/blob/master/proxy.c
 
 # week07 PintOS project 1-2
 
+pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
+
+
+- pintos 루트 디렉토리에 환경세팅하기 -> .bashrc에 저장해두면 매번 수행할 필요가 없어진다.
+![](assets/images/Pasted%20image%2020230921172044.png)
+
+
+
 참고도서: https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 
