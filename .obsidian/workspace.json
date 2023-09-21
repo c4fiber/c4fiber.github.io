@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Daily template.md",
+                "file": "02. Daily Notes/2023-09-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Daily template.md",
+                "file": "02. Daily Notes/2023-09-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Daily template.md",
+                "file": "02. Daily Notes/2023-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Daily template.md"
+                "file": "02. Daily Notes/2023-09-21.md"
               }
             }
           }
@@ -208,6 +208,7 @@
   },
   "active": "3e8b71fe76cb1c6b",
   "lastOpenFiles": [
+    "_templates/Daily template.md",
     "02. Daily Notes/2023-09-21.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "_posts/2023-09-19-SIGPIPE handle.md",
@@ -221,7 +222,6 @@
     "02. Daily Notes/2023-09-18.md",
     "02. Daily Notes/2023-09-17.md",
     "02. Daily Notes/2023-09-16.md",
-    "_templates/Daily template.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
     "assets/images/Pasted image 20230919022307.png",
     "assets/images/2023-09-16 2023-09-16 19.52.28.excalidraw.md",
