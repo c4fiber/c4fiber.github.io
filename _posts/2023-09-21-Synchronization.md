@@ -77,7 +77,7 @@ enum intr_level intr_disable (void);
 Down, P: 세마포어의 값이 positive가 될 때 까지 기다린다. positive가 되면 값을 하나 감소시킨다.
 Up, V: 값을 증가시키고 대기하는 하나의 스레드를 깨운다.
 
-세마포어는 0으로 초기화 되며 **단 한번** 일어날 이벤트를 기다린다. 예를 들어 스레드 A가 다른 스레드 B를 시작시키고  다른 스레드 B가 A의 some activity가 끝나기를 기다리기를 원할 것이고 끝이나면 signal을 줄 것이다. A는 세마포어를 만들어서 0으로 초기화 시키고 B에게 전달한다. 그리고 세마포어를 **다운** 시킨다. (@나는 값이 -1이 될 것이라 예상한다. 이를 통해 세마포어가 >= 0 일때 작업을 수행할 수 있다고 생각한다.) 스레드 B가 작업을 종료하면 세마포어를 **업** 시킨다. 이 작업들은 A가 먼저 세마포어를 **다운** 하든 B가 먼저 세마포어를 **업** 하든 상관없이 작동한다.
+세마포어가 **단 한번** 일어날 이벤트를 기다릴때 0으로 초기화된다. 예를 들어 스레드 A가 다른 스레드 B를 시작시키고  B의 some activity가 끝나기를 기다리기를 원한다고 해보자.  B의 작업이 끝이나면 signal을 줄 것이다. A는 세마포어를 만들어서 0으로 초기화 시키고 B에게 전달한다. 그리고 세마포어를 **다운** 시킨다. 스레드 B가 작업을 종료하면 세마포어를 **업** 시킨다. 이 작업들은 A가 먼저 세마포어를 **다운** 하든 B가 먼저 세마포어를 **업** 하든 상관없이 작동한다. (@ 1로 초기화 하면? 일련의 시퀀스가 끝나고 마지막 시점에서 semaphore가 1이다. -> 누가 더 들어올 수 있는 것처럼 보인다.)
 
 ```c
 struct semaphore sema;
@@ -146,3 +146,11 @@ void sema_up (struct semaphore *sema);
 ```
 
 > Executes the "up" or "V" operation on sema, incrementing its value. If any threads are waiting on sema, wakes one of them up. Unlike most synchronization primitives, `sema_up()` may be called inside an external interrupt handler.
+
+세마포어는 내부적으로 interrupt의 비활성화와 (see [Disabling Interrupts](https://casys-kaist.github.io/pintos-kaist/appendix/synchronization.html#Disabling%20Interrupts)) 스레드의 blocking & unblocking (`thread_block()` and `thread_unblock()`) 을 위해서 제작되었다.  각각의 세마포어는 대기하고있는 스레드의 리스트를 유지하며, 연결 리스트를 사용한다. 연결리스트는`lib/kernel/list.c` 에 구현되어 있다.
+
+## Locks 잠금
+
+Lock은 세마포어의 초기값이 1인 것과 비슷하다. (see [Semaphores](https://casys-kaist.github.io/pintos-kaist/appendix/synchronization.html#Semaphores)). "up"은 release, "down"은 acquire을 호출한 것과 같다.
+
+세마포어와 비교해서 lock은 한가지 규제를 추가로 한다.: 오직 thread만 lock을 acquire 할 수 있다. (lock의 소유자 만 가능하다.) 또한 release가 가능하다. 
