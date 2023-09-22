@@ -45,8 +45,11 @@ pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
 - test를 진행할 때 `VERBOSE=1` 옵션을 추가하면 테스트 진행상황을 볼 수 있다.
 
 
-참고도서: https://pages.cs.wisc.edu/~remzi/OSTEP/
+semaphore, lock, monitor: [2023-09-21-Synchronization](_posts/2023-09-21-Synchronization.md)
 
+
+
+참고도서: https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 번역본: https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean
 

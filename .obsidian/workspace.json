@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "8a28453e63b6d844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-21-Synchronization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f0b0c9b1dd11a2b1",
             "type": "leaf",
             "state": {
@@ -90,19 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f79021b0dbf78e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-21-Synchronization.md",
+                "file": "01. INDEX/SW사관학교 정글 7기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-21-Synchronization.md",
+                "file": "01. INDEX/SW사관학교 정글 7기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-21-Synchronization.md"
+                "file": "01. INDEX/SW사관학교 정글 7기.md"
               }
             }
           }
@@ -230,18 +208,18 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "f0b0c9b1dd11a2b1",
+  "active": "3e8b71fe76cb1c6b",
   "lastOpenFiles": [
+    "_posts/2023-09-21-Synchronization.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-09-19-SIGPIPE handle.md",
     "02. Daily Notes/2023-09-22.md",
     "_posts/2023-09-22-Threads.md",
-    "_posts/2023-09-21-Synchronization.md",
     "assets/images/Pasted image 20230922145136.png",
-    "01. INDEX/SW사관학교 정글 7기.md",
     "assets/images/Pasted image 20230921172044.png",
     "02. Daily Notes/2023-09-21.md",
     "_templates/Daily template.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
-    "_posts/2023-09-19-SIGPIPE handle.md",
     "assets/images/Pasted image 20230920174837.png",
     "assets/images/Pasted image 20230920071644.png",
     "02. Daily Notes/2023-09-20.md",
