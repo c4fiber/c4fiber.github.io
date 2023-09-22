@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2023-09-22.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2023-09-22.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2023-09-22.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2023-09-22.md"
+                "file": "_posts/2023-09-21-Synchronization.md"
               }
             }
           }
@@ -232,10 +232,10 @@
   },
   "active": "f0b0c9b1dd11a2b1",
   "lastOpenFiles": [
+    "02. Daily Notes/2023-09-22.md",
     "_posts/2023-09-22-Threads.md",
     "_posts/2023-09-21-Synchronization.md",
     "assets/images/Pasted image 20230922145136.png",
-    "02. Daily Notes/2023-09-22.md",
     "01. INDEX/SW사관학교 정글 7기.md",
     "assets/images/Pasted image 20230921172044.png",
     "02. Daily Notes/2023-09-21.md",
