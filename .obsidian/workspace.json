@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_posts/2023-09-21-Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md"
+                "file": "_posts/2023-09-21-Synchronization.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "3e8b71fe76cb1c6b",
   "lastOpenFiles": [
-    "_posts/2023-09-21-Synchronization.md",
     "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-19-SIGPIPE handle.md",
     "02. Daily Notes/2023-09-22.md",
     "_posts/2023-09-22-Threads.md",

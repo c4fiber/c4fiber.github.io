@@ -77,7 +77,7 @@ enum intr_level intr_disable (void);
 Down, P: 세마포어의 값이 positive가 될 때 까지 기다린다. positive가 되면 값을 하나 감소시킨다.
 Up, V: 값을 증가시키고 대기하는 하나의 스레드를 깨운다.
 
-세마포어가 **단 한번** 일어날 이벤트를 기다릴때 0으로 초기화된다. 예를 들어 스레드 A가 다른 스레드 B를 시작시키고  B의 some activity가 끝나기를 기다리기를 원한다고 해보자.  B의 작업이 끝이나면 signal을 줄 것이다. A는 세마포어를 만들어서 0으로 초기화 시키고 B에게 전달한다. 그리고 세마포어를 **다운** 시킨다. 스레드 B가 작업을 종료하면 세마포어를 **업** 시킨다. 이 작업들은 A가 먼저 세마포어를 **다운** 하든 B가 먼저 세마포어를 **업** 하든 상관없이 작동한다. (@ 1로 초기화 하면? 일련의 시퀀스가 끝나고 마지막 시점에서 semaphore가 1이다. -> 누가 더 들어올 수 있는 것처럼 보인다.)
+세마포어가 **단 한번** 일어날 이벤트를 기다릴때 0으로 초기화된다. 예를 들어 스레드 A가 다른 스레드 B를 시작시키고  B의 some activity가 끝나기를 기다리기를 원한다고 해보자.  B의 작업이 끝이나면 signal을 줄 것이다. A는 세마포어를 만들어서 0으로 초기화 시키고 B에게 전달한다. 그리고 세마포어를 **다운** 시킨다. 스레드 B가 작업을 종료하면 세마포어를 **업** 시킨다. 이 작업들은 A가 먼저 세마포어를 **다운** 하든 B가 먼저 세마포어를 **업** 하든 상관없이 작동한다. (@ 아래의 코드를 보면 A가 먼저 실행되든, B가 먼저 실행되든 최종 실행 순서는 B -> A 가 된다.)
 
 ```c
 struct semaphore sema;
@@ -211,4 +211,46 @@ bool lock_held_by_current_thread (const struct lock *lock):
 모니터는 세마포어나 lock 을 이용한 동기화 형태보다 higher-level 이다. 모디터는 동기화된 data와 lock( monitor lock), 그리고 하나 또는 그 이상의 조건 변수(Condition variables)로 으로 구성되어 있다. 
 protected data에 접근하기 전에 스레드는 1. monitor lock을 acquire한다. 이 행위는 "in the monitor"라고 일컫어진다. 모니터에 있는 동안은 스레드는 proteced data를 다루게 되는데 자유롭게 살펴보거나(examine) 수정(modify)할 수 있다. protected data에 접근이 끝나면 monitor lock을 해제한다.
 
-Condition variables (조건 변수) 들은 true가 될 때 까지 모니터안의 코드를 기다리도록 허용한다. 각각의조건 변수들은 추상적인 조건에 연관되어 있는데, 예를 들자면 "어떠한 데이터가 작업 진행을 위해 도착했다.", "사용자의 key stroke가 전달된 지 10초가 지났다" 등이 있다.
+Condition variables (조건 변수) 들은 true가 될 때 까지 모니터안의 코드를 기다리도록 허용한다. 각각의조건 변수들은 추상적인 조건에 연관되어 있는데, 예를 들자면 "어떠한 데이터가 작업 진행을 위해 도착했다.", "사용자의 key stroke가 전달된 지 10초가 지났다" 등이 있다. 모니터에 진입한 코드가 condition == true가 되는걸 기다릴 필요가 있다면 release lock & signal the condition이 될때까지 기다린다. 만약, 반대로 코드가 conditions variables를 true로 만든다면 기다리고 있는 모든 코드들에게 "signal을 보내거나", "broadcast" 한다.
+
+모니터의 이론적 프레임워크는 C.A.R.Hoare 이다. 실제 사용은 Mesa operation system 에서 구체화 되었다. Condition variables types & functions 는 `include/threads/synch.h` 에 선언되어 있다.
+
+---
+
+```
+struct condition;
+```
+
+> Represents a condition variable.
+
+---
+
+```
+void cond_init (struct condition *cond);
+```
+
+> Initializes cond as a new condition variable.
+
+---
+
+```
+void cond_wait (struct condition *cond, struct lock *lock);
+```
+
+> Atomically releases lock (the monitor lock) and waits for cond to be signaled by some other piece of code. After cond is signaled, reacquires lock before returning. lock must be held before calling this function. Sending a signal and waking up from a wait are not an atomic operation. Thus, typically `cond_wait()`'s caller must recheck the condition after the wait completes and, if necessary, wait again. See the next section for an example.
+
+---
+
+```
+void cond_signal (struct condition *cond, struct lock *lock);
+```
+
+> If any threads are waiting on cond (protected by monitor lock lock), then this function wakes up one of them. If no threads are waiting, returns without performing any action. lock must be held before calling this function.
+
+---
+
+```
+void cond_broadcast (struct condition *cond, struct lock *lock);
+```
+
+> Wakes up all threads, if any, waiting on cond (protected by monitor lock lock). lock must be held before calling this function.
