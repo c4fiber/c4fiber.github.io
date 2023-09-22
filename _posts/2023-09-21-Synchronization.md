@@ -26,6 +26,7 @@ Pintos에서 preemptible kernel이라는 뜻은 커널 스레드는 언제든지
 
 인터럽트 활성화&비활성화 타입과 함수는 `include/threads/interrupt.h` 에 있다.
 
+![](/assets/images/Pasted%20image%2020230922145136.png)
 
 ## 세마포어 Semaphores
 
@@ -34,3 +35,4 @@ Pintos에서 preemptible kernel이라는 뜻은 커널 스레드는 언제든지
 Down, P: 세마포어의 값이 positive가 될 때 까지 기다린다. positive가 되면 값을 하나 감소시킨다.
 Up, V: 값을 증가시키고 대기하는 하나의 스레드를 깨운다.
 
+세마포어는 0으로 초기화 되며 
