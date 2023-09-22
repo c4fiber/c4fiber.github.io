@@ -153,4 +153,60 @@ void sema_up (struct semaphore *sema);
 
 Lock은 세마포어의 초기값이 1인 것과 비슷하다. (see [Semaphores](https://casys-kaist.github.io/pintos-kaist/appendix/synchronization.html#Semaphores)). "up"은 release, "down"은 acquire을 호출한 것과 같다.
 
-세마포어와 비교해서 lock은 한가지 규제를 추가로 한다.: 오직 thread만 lock을 acquire 할 수 있다. (lock의 소유자 만 가능하다.) 또한 release가 가능하다. 
+세마포어와 비교해서 lock은 한가지 규제를 추가로 한다.: 오직 thread만 lock을 acquire 할 수 있다. (lock의 소유자 만 가능하다.) 또한 release가 가능하다. 만약 이러한 규제가 문제가 된다면 lock 대신에 semaphore가 사용되어야 한다는 좋은 사인(sign, 부호)이다. 
+
+pintos에서 lock은 재귀적으로 작동하지 않는다. 이는 스레드가 holding하고 있는 lock을 acquire 할 경우 error가 발생한다. Lock type과 functions는 `include/threads/synch.h` 에 정의되어 있다.
+
+---
+
+```
+struct lock;
+```
+
+> Represents a lock.
+
+---
+
+```
+void lock_init (struct lock *lock);
+```
+
+> Initializes lock as a new lock. The lock is not initially owned by any thread.
+
+---
+
+```
+void lock_acquire (struct lock *lock);
+```
+
+> Acquires lock for the current thread, first waiting for any current owner to release it if necessary.
+
+---
+
+```
+bool lock_try_acquire (struct lock *lock);
+```
+
+> Tries to acquire lock for use by the current thread, without waiting. Returns true if successful, false if the lock is already owned. Calling this function in a tight loop is a bad idea because it wastes CPU time, so use `lock_acquire()` instead.
+
+---
+
+```
+void lock_release (struct lock *lock);
+```
+
+> Releases lock, which the current thread must own.
+
+---
+
+```
+bool lock_held_by_current_thread (const struct lock *lock):
+```
+
+> Returns true if the running thread owns lock, false otherwise. There is no function to test whether an arbitrary thread owns a lock, because the answer could change before the caller could act on it.
+
+
+## Monitors 모니터
+
+모니터는 세마포어나 lock 을 이용한 동기화 형태보다 higher-level 이다. 모디터는 동기화된 data와 lock( monitor lock), 그리고 하나 또는 그 이상의 상태 변수로 으로 구성되어 있다. 
+protected data에 접근하기 전에 스레드는 1. monitor lock을 acquire한다. 이 행위는 "in the monitor"라고 일컫어진다. 모니터에 있는 동안은 
