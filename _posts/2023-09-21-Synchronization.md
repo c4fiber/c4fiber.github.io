@@ -208,5 +208,7 @@ bool lock_held_by_current_thread (const struct lock *lock):
 
 ## Monitors 모니터
 
-모니터는 세마포어나 lock 을 이용한 동기화 형태보다 higher-level 이다. 모디터는 동기화된 data와 lock( monitor lock), 그리고 하나 또는 그 이상의 상태 변수로 으로 구성되어 있다. 
-protected data에 접근하기 전에 스레드는 1. monitor lock을 acquire한다. 이 행위는 "in the monitor"라고 일컫어진다. 모니터에 있는 동안은 
+모니터는 세마포어나 lock 을 이용한 동기화 형태보다 higher-level 이다. 모디터는 동기화된 data와 lock( monitor lock), 그리고 하나 또는 그 이상의 조건 변수(Condition variables)로 으로 구성되어 있다. 
+protected data에 접근하기 전에 스레드는 1. monitor lock을 acquire한다. 이 행위는 "in the monitor"라고 일컫어진다. 모니터에 있는 동안은 스레드는 proteced data를 다루게 되는데 자유롭게 살펴보거나(examine) 수정(modify)할 수 있다. protected data에 접근이 끝나면 monitor lock을 해제한다.
+
+Condition variables (조건 변수) 들은 true가 될 때 까지 모니터안의 코드를 기다리도록 허용한다. 각각의조건 변수들은 추상적인 조건에 연관되어 있는데, 예를 들자면 "어떠한 데이터가 작업 진행을 위해 도착했다.", "사용자의 key stroke가 전달된 지 10초가 지났다" 등이 있다.
