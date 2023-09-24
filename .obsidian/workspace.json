@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2023-09-24.md",
+                "file": "_posts/2023-09-24-pintos Alarm clock.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2023-09-24.md",
+                "file": "_posts/2023-09-24-pintos Alarm clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2023-09-24.md",
+                "file": "_posts/2023-09-24-pintos Alarm clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2023-09-24.md"
+                "file": "_posts/2023-09-24-pintos Alarm clock.md"
               }
             }
           }
@@ -234,8 +234,8 @@
   },
   "active": "69bc2e529dddcfa9",
   "lastOpenFiles": [
-    "_posts/2023-09-24-pintos ERROR.md",
     "02. Daily Notes/2023-09-24.md",
+    "_posts/2023-09-24-pintos ERROR.md",
     "_posts/2023-09-24-pintos Alarm clock.md",
     "assets/images/Pasted image 20230924230953.png",
     "assets/images/Pasted image 20230924165655.png",
