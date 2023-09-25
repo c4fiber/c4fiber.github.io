@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "b9ce3c331877fe87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-25-Interrupt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f0b0c9b1dd11a2b1",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-25-mutex vs semaphore.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-25-mutex vs semaphore.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-25-mutex vs semaphore.md"
+                "file": "_posts/2023-09-25-Interrupt.md"
               }
             }
           }
@@ -244,10 +256,11 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "b08eb1975a9798e0",
+  "active": "b9ce3c331877fe87",
   "lastOpenFiles": [
-    "_posts/2023-09-24-pintos Alarm clock.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
+    "_posts/2023-09-25-Interrupt.md",
+    "_posts/2023-09-24-pintos Alarm clock.md",
     "02. Daily Notes/2023-09-24.md",
     "_posts/2023-09-24-pintos ERROR.md",
     "assets/images/Pasted image 20230924230953.png",
@@ -279,7 +292,6 @@
     "_posts/2fdfd.md",
     "01. INDEX/SW사관학교 정글.md",
     "_posts/2020-11-29-first-post.md",
-    "_posts/2021-05-18-rpi settings.md",
     "02. Daily Notes",
     "assets/images/image-20210331174400883.png",
     "assets/images/Pasted image 20230916173626.png",
