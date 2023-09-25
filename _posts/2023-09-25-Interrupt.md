@@ -9,6 +9,9 @@ dfdf
 
 ## 인터럽트의 종류
 
+
+DPL: 
+
 ![](/assets/images/Pasted%20image%2020230925221748.png)
 
 
@@ -101,4 +104,4 @@ IDT: Interrupt Descriptor Table [Interrupt descriptor table - Wikipedia](https:/
 
 DPL: Descriptor Privilege Level
 - 인터럽트의 종류에 따라서 우선순위를 나타내는 값이다.
-- 
+- PintOS는 모든 값을 0으로 설정한다.
