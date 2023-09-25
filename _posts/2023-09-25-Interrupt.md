@@ -91,7 +91,7 @@ IRQ: Interrupt Request [Interrupt request - Wikipedia](https://en.wikipedia.org/
 IVT: Interrupt Vector Table [Interrupt vector table - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_vector_table)
 - 아키텍처에 관련없이 인터럽트의 핸들러의 리스트로 구성되어 있다.
 - 각 Interrupt Number에 따른 Interrupt request
-- 구현형태: Dispatch table
+- 구현형태로는  Dispatch table, IDT가 있다.
 
 ![](/assets/images/Pasted%20image%2020230925222158.png)
 
