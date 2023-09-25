@@ -72,3 +72,17 @@ intr_entry:
 	iretq
 .endfunc
 ```
+
+
+## 용어 정리
+IRQ: Interrupt Request
+- 잠시 실행중인 프로그램을 멈추고 특수한(special) 프로그램을 수행하도록 하는 요청
+- 하드웨어 신호 (hardware signal)를 보
+
+IVT: Interrupt Vector Table
+- 아키텍처에 관련없이 인터럽트의 핸들러의 리스트로 구성되어 있다.
+- 각 Interrupt Number에 따른 Interrupt request
+
+IDT: Interrupt Descriptor Table
+- Intel 80286 및 이후로 사용되는 데이터 구조
+- IVT를 구현한 애용이며, processor가 interrupt & exception에 대한 대응을 결정하도록 쓰인다.
