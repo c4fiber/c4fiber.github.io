@@ -7,6 +7,11 @@ date created: 2023-09-25 21:30
 ---
 dfdf
 
+## 인터럽트의 종류
+
+![](/assets/images/Pasted%20image%2020230925221748.png)
+
+
 ## 인터럽트 호출시점
 
 `inter_entry` 가 수행되면 현재 레지스터 상태를 **실행중인 스레드의 스택**에 저장하고 `interrupt_handler` 를 호출한다.
@@ -75,14 +80,25 @@ intr_entry:
 
 
 ## 용어 정리
-IRQ: Interrupt Request
-- 잠시 실행중인 프로그램을 멈추고 특수한(special) 프로그램을 수행하도록 하는 요청
-- 하드웨어 신호 (hardware signal)를 보
+IRQ: Interrupt Request [Interrupt request - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_request)
+- 잠시 실행중인 프로그램을 멈추고 특수한 프로그램, Interrupt handler, 를 수행하도록 하는 요청
+- 하드웨어 신호 (hardware signal)를 processor로 보내서 발생시킨다.
+- 하드웨어 인터럽트는 주로 모뎀, 네트워크 인터페이스, 키보드 누름, 마우스 움직임 등에 의해 발생한다.
+- 인터럽트 대응은 주로 IRQ의 number에 대응하는 index값으로 결정된다. -> IVT, IDT로 이어진다.
+- 예를들어 Intel 8259 PIC는 IRQ0 ~ IRQ7에 대응하는 8개의 interrupt input이 있다.
+	- 각 pin의 입력을 1bit라고 생각하면 자연스럽게 256가지의 경우가 나온다. (IVT의 크기)
 
-IVT: Interrupt Vector Table
+IVT: Interrupt Vector Table [Interrupt vector table - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_vector_table)
 - 아키텍처에 관련없이 인터럽트의 핸들러의 리스트로 구성되어 있다.
 - 각 Interrupt Number에 따른 Interrupt request
+- 구현형태: Dispatch table
 
-IDT: Interrupt Descriptor Table
-- Intel 80286 및 이후로 사용되는 데이터 구조
-- IVT를 구현한 애용이며, processor가 interrupt & exception에 대한 대응을 결정하도록 쓰인다.
+![](/assets/images/Pasted%20image%2020230925222158.png)
+
+IDT: Interrupt Descriptor Table [Interrupt descriptor table - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_descriptor_table)
+- [Intel 80286 - Wikipedia](https://en.wikipedia.org/wiki/Intel_80286) 및 이후로 사용되는 데이터 구조
+- IVT를 구현한(implements) 내용이며, processor가 interrupt & exception에 대한 대응을 결정하도록 쓰인다.
+
+DPL: Descriptor Privilege Level
+- 인터럽트의 종류에 따라서 우선순위를 나타내는 값이다.
+- 
