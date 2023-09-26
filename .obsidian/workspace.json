@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "01. INDEX/SW사관학교 정글 7기.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "01. INDEX/SW사관학교 정글 7기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "01. INDEX/SW사관학교 정글 7기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md"
+                "file": "01. INDEX/SW사관학교 정글 7기.md"
               }
             }
           }
@@ -270,12 +270,14 @@
   },
   "active": "697a9dc7ece44b9d",
   "lastOpenFiles": [
-    "_posts/2023-09-19-SIGPIPE handle.md",
-    "_posts/2023-09-26-PintOS 강의.md",
+    "_posts/2023-09-25-mutex vs semaphore.md",
     "_posts/2023-09-25-Interrupt.md",
+    "assets/images/Pasted image 20230926170538.png",
+    "_posts/2023-09-26-PintOS 강의.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-09-19-SIGPIPE handle.md",
     "assets/images/Pasted image 20230925222158.png",
     "assets/images/Pasted image 20230925221748.png",
-    "_posts/2023-09-25-mutex vs semaphore.md",
     "_posts/2023-09-24-pintos Alarm clock.md",
     "02. Daily Notes/2023-09-24.md",
     "_posts/2023-09-24-pintos ERROR.md",
@@ -283,7 +285,6 @@
     "assets/images/Pasted image 20230924165655.png",
     "assets/images/Pasted image 20230924165604.png",
     "_posts/2023-09-21-Synchronization.md",
-    "01. INDEX/SW사관학교 정글 7기.md",
     "02. Daily Notes/2023-09-22.md",
     "_posts/2023-09-22-Threads.md",
     "assets/images/Pasted image 20230922145136.png",
@@ -301,11 +302,9 @@
     "02. Daily Notes/2023-09-17.md",
     "02. Daily Notes/2023-09-16.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
-    "assets/images/Pasted image 20230919022307.png",
     "assets/images/2023-09-16 2023-09-16 19.52.28.excalidraw.md",
     "_templates/Basic Notes.md",
     "_posts/2fdfd.md",
-    "01. INDEX/SW사관학교 정글.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",

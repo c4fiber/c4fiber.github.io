@@ -5,7 +5,7 @@ aliases:
 tags: 
 date created: 2023-09-25 21:30
 ---
-dfdf
+pintOS를 공부하면서 Interrupt에 대해 작성해봤다.
 
 ## 인터럽트의 종류
 
@@ -81,6 +81,9 @@ intr_entry:
 .endfunc
 ```
 
+
+## 인터럽트 발생 시 스택의 상태
+![](/assets/images/Pasted%20image%2020230926170538.png)
 
 ## 용어 정리
 IRQ: Interrupt Request [Interrupt request - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_request)

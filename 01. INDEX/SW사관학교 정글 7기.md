@@ -47,6 +47,11 @@ pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
 
 semaphore, lock, monitor: [2023-09-21-Synchronization](_posts/2023-09-21-Synchronization.md)
 
+lock(mutex) 와 세마포어 이해하기: [2023-09-25-mutex vs semaphore](_posts/2023-09-25-mutex%20vs%20semaphore.md)
+
+권영진 교수님 pintOS강의: [abstraction](_posts/2023-09-26-PintOS%20강의.md) 
+
+iret, iretw, iretq가 무엇인가? : [assembly - what's the difference between iret and iretd,iretq? - Stack Overflow](https://stackoverflow.com/questions/11756153/whats-the-difference-between-iret-and-iretd-iretq)
 
 
 참고도서: https://pages.cs.wisc.edu/~remzi/OSTEP/
