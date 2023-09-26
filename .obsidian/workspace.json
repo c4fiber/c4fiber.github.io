@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e74d41a99223692b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Daily template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_templates/Daily template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
+                "file": "_templates/Daily template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md"
+                "file": "_templates/Daily template.md"
               }
             }
           }
@@ -268,13 +280,16 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "697a9dc7ece44b9d",
+  "active": "e74d41a99223692b",
   "lastOpenFiles": [
+    "02. Daily Notes/2023-09-26.md",
+    "_posts/2023-09-26-PintOS 강의.md",
+    "_templates/Daily template.md",
+    "_posts/2023-09-26-far pointer.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
     "_posts/2023-09-25-Interrupt.md",
     "assets/images/Pasted image 20230926170538.png",
-    "_posts/2023-09-26-PintOS 강의.md",
-    "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-09-19-SIGPIPE handle.md",
     "assets/images/Pasted image 20230925222158.png",
     "assets/images/Pasted image 20230925221748.png",
@@ -290,7 +305,6 @@
     "assets/images/Pasted image 20230922145136.png",
     "assets/images/Pasted image 20230921172044.png",
     "02. Daily Notes/2023-09-21.md",
-    "_templates/Daily template.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "assets/images/Pasted image 20230920174837.png",
     "assets/images/Pasted image 20230920071644.png",
@@ -304,7 +318,6 @@
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
     "assets/images/2023-09-16 2023-09-16 19.52.28.excalidraw.md",
     "_templates/Basic Notes.md",
-    "_posts/2fdfd.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
