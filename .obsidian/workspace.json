@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Daily template.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Daily template.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Daily template.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Daily template.md"
+                "file": "_posts/2023-09-24-pintos ERROR.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "10e6da9b638d694a",
   "lastOpenFiles": [
-    "02. Daily Notes/2023-10-01.md",
+    "assets/images/Pasted image 20231001163729.png",
+    "assets/images/Pasted image 20231001163529.png",
     "_templates/Daily template.md",
+    "02. Daily Notes/2023-10-01.md",
     "02. Daily Notes/2023-09-18.md",
     "02. Daily Notes/2023-09-20.md",
     "_posts/2023-09-21-Synchronization.md",
@@ -179,12 +181,10 @@
     "assets/images/Pasted image 20230921172044.png",
     "02. Daily Notes/2023-09-21.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
-    "assets/images/Pasted image 20230920174837.png",
     "_posts/2021-07-27-pc-power-supply-position.md",
     "_posts/2021-07-15-lostark-client-error.md",
     "02. Daily Notes/2023-09-19.md",
     "02. Daily Notes/2023-09-17.md",
-    "02. Daily Notes/2023-09-16.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
