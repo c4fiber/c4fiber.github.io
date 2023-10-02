@@ -38,3 +38,10 @@ Pintos나 Nachos와 같은 운영 체제에서는 이러한 Virtualization Excep
 timer: 32 (0x20)
 keyboard: 33 (0x21)
 serial: 36 (0x24)
+
+disk:
+43 : read
+44: write
+
+channel 0: 46 -> interrupt_handler 호출
+channel 1: 47 -> interrupt_handler 호출

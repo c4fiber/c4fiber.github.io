@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md"
+                "file": "_posts/2023-09-25-Interrupt.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "de92ba3991258197",
   "lastOpenFiles": [
-    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
+    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-02-init.c 분석.md",
     "assets/images/Pasted image 20231002214026.png",
     "assets/images/Pasted image 20231002213945.png",
