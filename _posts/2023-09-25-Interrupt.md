@@ -7,10 +7,10 @@ date created: 2023-09-25 21:30
 ---
 pintOS를 공부하면서 Interrupt에 대해 작성해봤다.
 
-## 인터럽트의 종류
+## 인터럽트의 privilege
 
 
-DPL: 
+DPL: Descriptor Privilege Level (2bit)
 
 ![](/assets/images/Pasted%20image%2020230925221748.png)
 
@@ -85,6 +85,24 @@ intr_entry:
 ## 인터럽트 발생 시 스택의 상태
 ![](/assets/images/Pasted%20image%2020230926170538.png)
 
+
+## assembly: STI, CLI (x86)
+- STI: Set Interrupt Flag
+- CLI: Clear Interrupt Flag
+
+https://modoocode.com/en/inst/sti
+>The IF flag and the [STI](https://modoocode.com/en/inst/sti) and [CLI](https://modoocode.com/en/inst/cli) instructions do not prohibit the generation of exceptions and NMI interrupts. NMI interrupts (and SMIs) may be blocked for one macroinstruction following an [STI](https://modoocode.com/en/inst/sti).
+
+### NMI
+Non-Maskable Interrupt
+
+주로 응답속도가 중요하거나, interrupt가 비활성화 되지 않아야 할때 사용된다.
+- 복구가 불가능한 hardware 에러가 발생했을 경우
+- system debugging, profiling 도중에
+- 시스템 초기화 등 특별한 경우를 다루고 있을 때
+
+최근에는 즉시 집중해야non-recoverable error
+
 ## 용어 정리
 IRQ: Interrupt Request [Interrupt request - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_request)
 - 잠시 실행중인 프로그램을 멈추고 특수한 프로그램, Interrupt handler, 를 수행하도록 하는 요청
@@ -108,3 +126,4 @@ IDT: Interrupt Descriptor Table [Interrupt descriptor table - Wikipedia](https:/
 DPL: Descriptor Privilege Level
 - 인터럽트의 종류에 따라서 우선순위를 나타내는 값이다.
 - PintOS는 모든 값을 0으로 설정한다.
+

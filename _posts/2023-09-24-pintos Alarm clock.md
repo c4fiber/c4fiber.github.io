@@ -13,3 +13,6 @@ blocked_list 를 생성해서 sleep 상태인 스레드는 block(status = blocke
 
 ![](/assets/images/Pasted%20image%2020230924230953.png)
 
+
+
+![](/assets/images/Pasted%20image%2020231002191950.png)

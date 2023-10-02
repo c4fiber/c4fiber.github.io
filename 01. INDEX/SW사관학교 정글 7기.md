@@ -50,6 +50,8 @@ pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
 [2023-09-24-pintos Alarm clock](_posts/2023-09-24-pintos%20Alarm%20clock.md)
 
 
+## Threads
+[2023-09-22-Threads](_posts/2023-09-22-Threads.md)
 
 ## semaphore, lock, monitor
 semaphore, lock, monitor: [2023-09-21-Synchronization](_posts/2023-09-21-Synchronization.md)
