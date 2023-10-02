@@ -93,15 +93,16 @@ intr_entry:
 https://modoocode.com/en/inst/sti
 >The IF flag and the [STI](https://modoocode.com/en/inst/sti) and [CLI](https://modoocode.com/en/inst/cli) instructions do not prohibit the generation of exceptions and NMI interrupts. NMI interrupts (and SMIs) may be blocked for one macroinstruction following an [STI](https://modoocode.com/en/inst/sti).
 
-### NMI
-Non-Maskable Interrupt
+### NMI: Non-Maskable Interrupt
+
+https://en.wikipedia.org/wiki/Non-maskable_interrupt
 
 주로 응답속도가 중요하거나, interrupt가 비활성화 되지 않아야 할때 사용된다.
 - 복구가 불가능한 hardware 에러가 발생했을 경우
 - system debugging, profiling 도중에
 - 시스템 초기화 등 특별한 경우를 다루고 있을 때
 
-최근에는 즉시 집중해야non-recoverable error
+최근에는 즉시 집중해야하는 (immediate attention) non-recoverable error를 다룰때 사용된다.
 
 ## 용어 정리
 IRQ: Interrupt Request [Interrupt request - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_request)
