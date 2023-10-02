@@ -33,3 +33,8 @@ Pintos나 Nachos와 같은 운영 체제에서는 이러한 Virtualization Excep
 
 
 
+## pintos 외부 인터럽트 번호
+
+timer: 32 (0x20)
+keyboard: 33 (0x21)
+serial: 36 (0x24)
