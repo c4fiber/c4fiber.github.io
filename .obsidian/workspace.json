@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de92ba3991258197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md"
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md"
               }
             }
           }
@@ -160,8 +172,10 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "8d63e5c02cbfcc8d",
+  "active": "de92ba3991258197",
   "lastOpenFiles": [
+    "_posts/2023-09-25-Interrupt.md",
+    "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-02-init.c 분석.md",
     "assets/images/Pasted image 20231002214026.png",
     "assets/images/Pasted image 20231002213945.png",
@@ -176,7 +190,6 @@
     "01. INDEX/Raspberry pi4.md",
     "_posts/2023-09-26-far pointer.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
-    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-09-21-Synchronization.md",
     "assets/images/Pasted image 20231002192531.png",
     "_posts/2023-09-24-pintos Alarm clock.md",
