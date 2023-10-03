@@ -88,12 +88,14 @@ intr_entry:
 ![](/assets/images/Pasted%20image%2020230926170538.png)
 
 
+
 ## assembly: STI, CLI (x86)
 - STI: Set Interrupt Flag
 - CLI: Clear Interrupt Flag
 
 https://modoocode.com/en/inst/sti
 >The IF flag and the [STI](https://modoocode.com/en/inst/sti) and [CLI](https://modoocode.com/en/inst/cli) instructions do not prohibit the generation of exceptions and NMI interrupts. NMI interrupts (and SMIs) may be blocked for one macroinstruction following an [STI](https://modoocode.com/en/inst/sti).
+
 
 ### NMI: Non-Maskable Interrupt
 
@@ -105,6 +107,21 @@ https://en.wikipedia.org/wiki/Non-maskable_interrupt
 - 시스템 초기화 등 특별한 경우를 다루고 있을 때
 
 최근에는 즉시 집중해야하는 (immediate attention) non-recoverable error를 다룰때 사용된다.
+
+
+## pintos 외부 인터럽트 번호
+
+timer: 32 (0x20)
+keyboard: 33 (0x21)
+serial: 36 (0x24)
+
+disk:
+43 : read
+44: write
+
+channel 0: 46 -> interrupt_handler 호출
+channel 1: 47 -> interrupt_handler 호출
+
 
 ## 용어 정리
 IRQ: Interrupt Request [Interrupt request - Wikipedia](https://en.wikipedia.org/wiki/Interrupt_request)

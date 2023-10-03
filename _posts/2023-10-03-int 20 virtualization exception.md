@@ -31,17 +31,3 @@ Pintos나 Nachos와 같은 운영 체제에서는 이러한 Virtualization Excep
 
 따라서 Pintos와 Nachos는 가상화와 관련된 복잡한 예외 처리를 다루지 않고, 간단하고 학습에 초점을 맞춘 운영 체제로 구현되어 있습니다.
 
-
-
-## pintos 외부 인터럽트 번호
-
-timer: 32 (0x20)
-keyboard: 33 (0x21)
-serial: 36 (0x24)
-
-disk:
-43 : read
-44: write
-
-channel 0: 46 -> interrupt_handler 호출
-channel 1: 47 -> interrupt_handler 호출
