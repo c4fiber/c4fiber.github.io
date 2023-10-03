@@ -1,6 +1,7 @@
 ---
-title: 
-aliases: 
+title: pintOS project 2 발제
+aliases:
+  - pintos-project2-start
 tags: 
 date created: 2023-10-03 13:31
 ---
