@@ -1,5 +1,5 @@
 ---
-title: 
+title: pintos-project 1
 aliases: 
 tags: 
 date created: 2023-10-03 15:42
