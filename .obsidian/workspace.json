@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9df2b8a02cce145c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md",
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md",
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md"
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md"
               }
             }
           }
@@ -184,44 +196,44 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "8ed9f5998f1c908e",
+  "active": "9df2b8a02cce145c",
   "lastOpenFiles": [
-    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-03-pintOS project 2 발제.md",
+    "_posts/2023-10-03-pintOS project 1 마감.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-09-21-Synchronization.md",
+    "_posts/2023-09-19-HTTP 206 Partial Content.md",
+    "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
+    "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
+    "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
+    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "_posts/2023-09-30-priority inversion.md",
+    "_posts/2023-09-26-PintOS 강의.md",
+    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-02-init.c 분석.md",
     "assets/images/Pasted image 20231002214026.png",
     "assets/images/Pasted image 20231002213945.png",
-    "01. INDEX/SW사관학교 정글 7기.md",
-    "_posts/2023-09-26-PintOS 강의.md",
     "02. Daily Notes/2023-10-01.md",
     "02. Daily Notes/2023-09-26.md",
     "_posts/2023-09-24-pintos ERROR.md",
-    "_posts/2023-09-30-priority inversion.md",
     "_posts/2023-09-30-linux kernel source 확인하기.md",
     "_posts/2023-09-22-Threads.md",
     "01. INDEX/Raspberry pi4.md",
     "_posts/2023-09-26-far pointer.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
-    "_posts/2023-09-21-Synchronization.md",
     "assets/images/Pasted image 20231002192531.png",
     "_posts/2023-09-24-pintos Alarm clock.md",
     "assets/images/Pasted image 20231002191950.png",
-    "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
     "assets/images/Pasted image 20231001163729.png",
     "assets/images/Pasted image 20231001163529.png",
     "_templates/Daily template.md",
     "02. Daily Notes/2023-09-18.md",
-    "02. Daily Notes/2023-09-20.md",
     "assets/images/Pasted image 20231001035001.png",
     "assets/images/Pasted image 20230926170538.png",
-    "_posts/2023-09-19-SIGPIPE handle.md",
     "assets/images/Pasted image 20230925222158.png",
     "assets/images/Pasted image 20230925221748.png",
-    "02. Daily Notes/2023-09-24.md",
-    "02. Daily Notes/2023-09-22.md",
-    "02. Daily Notes/2023-09-21.md",
-    "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",

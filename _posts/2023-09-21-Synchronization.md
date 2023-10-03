@@ -72,6 +72,8 @@ enum intr_level intr_disable (void);
 
 ## 세마포어 Semaphores
 
+[2023-09-25-mutex vs semaphore](_posts/2023-09-25-mutex%20vs%20semaphore.md)
+
 부호가 없는 정수이며 두 operation의 원자성을 해치지 않게 다룬다.
 
 Down, P: 세마포어의 값이 positive가 될 때 까지 기다린다. positive가 되면 값을 하나 감소시킨다.
