@@ -6,7 +6,7 @@ tags:
 date created: 2023-10-03 15:42
 ---
 
-# week07 PintOS project 1-2
+# week07 PintOS project 1
 
 pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
 
@@ -23,16 +23,16 @@ pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
 [2023-09-24-pintos Alarm clock](_posts/2023-09-24-pintos%20Alarm%20clock.md)
 
 
-## Threads
+### Threads
 [2023-09-22-Threads](_posts/2023-09-22-Threads.md)
 
-## semaphore, lock, monitor
+### semaphore, lock, monitor
 semaphore, lock, monitor: [2023-09-21-Synchronization](_posts/2023-09-21-Synchronization.md)
 
 lock(mutex) 와 세마포어 이해하기: [2023-09-25-mutex vs semaphore](_posts/2023-09-25-mutex%20vs%20semaphore.md)
 
 
-## interrupt
+### interrupt
 [pintos-interrupt](_posts/2023-09-25-Interrupt.md)
 
 iret, iretw, iretq가 무엇인가? : [assembly - what's the difference between iret and iretd,iretq? - Stack Overflow](https://stackoverflow.com/questions/11756153/whats-the-difference-between-iret-and-iretd-iretq)

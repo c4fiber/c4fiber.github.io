@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md",
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md",
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md",
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md"
+                "file": "_posts/2023-10-03-pintOS project 1 마감.md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "9df2b8a02cce145c",
   "lastOpenFiles": [
-    "_posts/2023-10-03-pintOS project 1 마감.md",
     "_posts/2023-10-03-pintOS project 2 발제.md",
+    "_posts/2023-10-03-pintOS project 1 마감.md",
     "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
