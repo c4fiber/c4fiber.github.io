@@ -66,3 +66,23 @@ syscall_handler가 호출되었을 때 상태가 no_sti 인데
 
 ![](assets/images/Pasted%20image%2020231005014920.png)
 
+
+
+## 문제 해결 방법
+
+1. `%rsi` 에는 argv\[0]의 **주소 값** 이 들어가야 한다. 즉 `rsp - 8` 의 값이 들어가야 한다.
+
+
+3. 스레드를 생성할 때 이름을 제대로 집어넣지 못했다.
+
+꼭 한줄씩 문제가 생겼는데 `test a b c`  라는 입력이 들어왔으면 스레드의 이름을 `test` 로 해줘야 하기 때문이였다.
+
+다음과 같이 스레드 생성에 필요한 이름을 파싱하기 위해 `sub_file_name` 을 만들었다.
+
+`strcspn` 함수는 reject가 포함되지 않는 index 0 부터 시작하는 substring의 길이를 반환한다.
+char 배열의 크기가 15인 이유는 pintOS 에서 파일이름의 길이가 최대 14였기 때문이다.
+
+![](assets/images/Pasted%20image%2020231005051833.png)
+
+
+![](assets/images/Pasted%20image%2020231005051757.png)
