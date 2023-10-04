@@ -39,7 +39,8 @@ gdb로 출력해본 결과 값이 잘 들어간걸 볼 수 있다.
 하지만 나는 NULL로 채워진 `argv[argc]` 다음에 바로 저장되게 하고, 마지막에 padding을 붙여서 align을 맞췄다.
 
 
-## 에러 발생
+# ERROR
+## process_exec, load 수정 후 "system call!" 에러
 
 ![](/assets/images/Pasted%20image%2020231004210520.png)
 
@@ -52,3 +53,9 @@ gdb로 출력해본 결과 값이 잘 들어간걸 볼 수 있다.
 syscall_handler가 호출되었을 때 상태가 no_sti 인데
 이 no_sti 의 내용을 확인할 수 없어서 멈춰있는 중이다.
 
+
+**thread.c**
+![](assets/images/Pasted%20image%2020231004211548.png)
+
+다음와 같이 yield 하는 조건을 수정했더니 문제가 없어졌다.
+원인: 
