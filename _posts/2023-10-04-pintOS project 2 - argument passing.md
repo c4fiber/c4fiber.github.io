@@ -62,3 +62,7 @@ syscall_handler가 호출되었을 때 상태가 no_sti 인데
 이 때문에 새로 생성된 스레드는 실행되지 못하고 내가 삽입한 실행파일 `args-single` 이 실행되지 못한다.
 
 
+## intr 0x0d General Protection exception
+
+![](assets/images/Pasted%20image%2020231005014920.png)
+
