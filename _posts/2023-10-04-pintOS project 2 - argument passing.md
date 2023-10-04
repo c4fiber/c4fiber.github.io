@@ -57,5 +57,8 @@ syscall_handler가 호출되었을 때 상태가 no_sti 인데
 **thread.c**
 ![](assets/images/Pasted%20image%2020231004211548.png)
 
-다음와 같이 yield 하는 조건을 수정했더니 문제가 없어졌다.
-원인: 
+다음와 같이 yield 하는 조건을 수정했더니 문제가 없어졌다. -> 문제 해결 방법이 아니다.
+이 경우 main thread가 새로운 thread를 만들고 실행시켜야 하는데 yield 하지 않아서 main thread가 바로 종료되어 버린다. 
+이 때문에 새로 생성된 스레드는 실행되지 못하고 내가 삽입한 실행파일 `args-single` 이 실행되지 못한다.
+
+
