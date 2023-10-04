@@ -29,7 +29,7 @@ load 함수는 process.c 파일에 정의되어 있으며 최 하단에 보면 T
 이 rsp값을 낮춰가면서 stack에 데이터를 집어 넣는다.
 
 ![](/assets/images/Pasted%20image%2020231004211055.png)
-
+π
 
 
 ![](/assets/images/Pasted%20image%2020231004194633.png)
@@ -77,7 +77,7 @@ syscall_handler가 호출되었을 때 상태가 no_sti 인데
 
 이를 막아주기 위해서 외부 인터럽트 상황일 때 `intr_yield_on_return()` 으로 해결해주었다.
 
-![](assets/images/Pasted%20image%2020231005053002.png)
+![](/assets/images/Pasted%20image%2020231005053002.png)
 
 
 
@@ -92,7 +92,7 @@ syscall_handler가 호출되었을 때 상태가 no_sti 인데
 
 이때 레지스터 상태를 보면 `6E69732D 73677261` 이라는 값이 들어있다.
 
-![](assets/images/Pasted%20image%2020231005052647.png)
+![](/assets/images/Pasted%20image%2020231005052647.png)
 
 hex값으로 보면 "args-sin" 이 뒤집어있는걸 볼 수 있는데 이때문에 string을 8byte 단위로 뒤집어서 넣어야 하나? 라는 생각을 잠깐했다.
 
