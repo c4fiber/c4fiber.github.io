@@ -44,6 +44,13 @@ gdb로 출력해본 결과 값이 잘 들어간걸 볼 수 있다.
 차이점이라면 introduction 에서는 word-align이 추가되고 그 다음부터 argv의 실제 내용이 저장된다.
 하지만 나는 NULL로 채워진 `argv[argc]` 다음에 바로 저장되게 하고, 마지막에 padding을 붙여서 align을 맞췄다.
 
+## 번외: hex_dump 를 이용해 확인하는 방법
+
+**ㅔ
+![](assets/images/Pasted%20image%2020231005165420.png)
+
+![](assets/images/Pasted%20image%2020231005165357.png)
+
 
 # ERROR
 ## process_exec, load 수정 후 "system call!" 에러
