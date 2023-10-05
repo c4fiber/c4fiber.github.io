@@ -2,7 +2,8 @@
 title: pintOS project 1 마감pintos-project 1
 aliases:
   - pintos-project2-end
-tags: 
+tags:
+  - pintos
 date created: 2023-10-03 15:42
 ---
 

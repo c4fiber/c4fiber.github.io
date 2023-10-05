@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "path:_posts path:\"01. INDEX\"  ",
-  "showTags": false,
+  "collapse-filter": true,
+  "search": "path:_posts  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"02. Daily Notes\"  ",
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6945512772809106,
+  "scale": 1.3019532701838703,
   "close": false
 }
