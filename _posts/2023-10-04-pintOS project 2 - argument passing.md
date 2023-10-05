@@ -46,10 +46,15 @@ gdb로 출력해본 결과 값이 잘 들어간걸 볼 수 있다.
 
 ## 번외: hex_dump 를 이용해 확인하는 방법
 
-**ㅔ
-![](assets/images/Pasted%20image%2020231005165420.png)
+**process.c**
+![](/assets/images/Pasted%20image%2020231005165420.png)
 
-![](assets/images/Pasted%20image%2020231005165357.png)
+주석처리한 첫줄을 보면 hex_dump를 이용해 아래와 같이 출력할 수 있다.
+`USERSTACK - if_->rsp`  가 중요하다. `KERN_BASE`  와 헷갈리지 말자!!
+
+
+다음과 같이 값을 확인할 수 있다.
+![](/assets/images/Pasted%20image%2020231005165357.png)
 
 
 # ERROR
