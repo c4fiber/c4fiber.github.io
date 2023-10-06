@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md"
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "a1b911d8dd470177",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20231006192308.png",
+    "assets/images/Pasted image 20231006192117.png",
+    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "assets/images/Pasted image 20231005233358.png",
     "assets/images/Pasted image 20231005233254.png",
@@ -242,7 +245,6 @@
     "assets/images/Pasted image 20231005052402.png",
     "assets/images/Pasted image 20231005052303.png",
     "assets/images/Pasted image 20231005052252.png",
-    "assets/images/Pasted image 20231005052237.png",
     "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
@@ -253,7 +255,6 @@
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "_posts/2023-09-30-priority inversion.md",
     "_posts/2023-09-26-PintOS 강의.md",
-    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-02-init.c 분석.md",
     "02. Daily Notes/2023-10-01.md",
