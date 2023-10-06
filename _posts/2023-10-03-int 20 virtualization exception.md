@@ -1,11 +1,9 @@
 ---
-title: 
+title: pintOS 에서는 왜 vec_no 20에 해당되는 Virtualization exception 을 처리하지 않는가?
 aliases: 
 tags: 
 date created: 2023-10-03 00:50
 ---
-
-pintOS 에서는 왜 vec_no 20에 해당되는 Virtualization exception 을 처리하지 않는가?
 
 ## chat gpt 답변
 

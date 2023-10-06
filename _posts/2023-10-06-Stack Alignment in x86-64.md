@@ -8,11 +8,11 @@ tags:
 date created: 2023-10-06 22:23
 ---
 # 왜 공부하게 되었나?
-
+---
 [pintos-project2-syscall](_posts/2023-10-05-pintOS%20project%202%20-%20syscall.md) 을 공부하다가 우연히 FAQ에서 stack alignment에 대한 내용을 봤다.
 
 # 16byte Alignment
-
+---
 x86-64 에는 calling convention이 존재한다.
 https://en.wikipedia.org/wiki/X86_calling_conventions#System_V_AMD64_ABI
 
@@ -39,7 +39,7 @@ XMM 레지스터를 사용하고, **정렬된** 4개의 packed floating-point va
 ![](/assets/images/Pasted%20image%2020231006223512.png)
 
 # 운 좋게 들어맞았던 argument passing
-
+---
 [2023-10-04-pintOS project 2 - argument passing](_posts/2023-10-04-pintOS%20project%202%20-%20argument%20passing.md) 을 수행할 때는 얻어걸렸었다.
 
 ![](/assets/images/Pasted%20image%2020231004211055.png)
@@ -55,6 +55,7 @@ XMM 레지스터를 사용하고, **정렬된** 4개의 packed floating-point va
 MOVAPS 같은 부동소숫점 연산 명령어를 사용할 일은 없고, 16byte alignment 가 아닌 8byte alignment만 수행해도 프로그램에 문제는 없다.
 
 # 참고자료
+---
 Intel® 64 and IA-32 Architectures Software Developer Manuals: https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 
 pintos-kaist document: https://casys-kaist.github.io/pintos-kaist/project2/introduction.html

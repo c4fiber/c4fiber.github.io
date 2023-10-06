@@ -1,7 +1,7 @@
 ---
-title: pintOS project 1 마감pintos-project 1
+title: (week07) pintos-project 1
 aliases:
-  - pintos-project2-end
+  - pintos-project1
 tags:
   - pintos
 date created: 2023-10-03 15:42

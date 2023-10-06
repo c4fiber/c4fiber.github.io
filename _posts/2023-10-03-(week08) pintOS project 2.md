@@ -1,10 +1,13 @@
 ---
-title: pintOS project 2 발제
+title: (week08) pintOS project 2
 aliases:
-  - pintos-project2-start
-tags: 
+  - pintos-project2
+tags:
+  - pintos
 date created: 2023-10-03 13:31
 ---
+
+# 발제
 ## TDD test driven development
 
 spec (specification)을 test로 명세한다.
@@ -35,3 +38,18 @@ process는 computer를 추상화 한 것이다.
 user - kernel , user - user 사이에 protection을 구현해야 한다.
 
 argument passing -> specification 은 명세되어 있다.
+
+---
+# Argument passing
+
+[2023-10-04-pintOS project 2 - argument passing](_posts/2023-10-04-pintOS%20project%202%20-%20argument%20passing.md)
+
+---
+# User Memory
+
+
+---
+# System Calls
+
+[2023-10-05-pintOS project 2 - syscall](_posts/2023-10-05-pintOS%20project%202%20-%20syscall.md)
+

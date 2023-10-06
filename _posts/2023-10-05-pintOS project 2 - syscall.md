@@ -19,7 +19,6 @@ ex) SYS_HALT 는 0, SYS_WRITE 10 로 되어있다.
 ![](assets/images/Pasted%20image%2020231005233358.png)
 
 
-
 # system call 호출 과정
 
 init.c -> main 에서 syscall_init() 을 통해 system_call을 처리할 수 있도록 한다.

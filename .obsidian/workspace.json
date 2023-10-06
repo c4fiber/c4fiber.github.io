@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 2 발제.md",
+                "file": "_posts/2023-10-03-(week08) pintOS project 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +95,12 @@
             "id": "7462f1f3f7bcbba1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -178,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md"
+              }
             }
           }
         ],
@@ -239,17 +247,20 @@
   },
   "active": "7462f1f3f7bcbba1",
   "lastOpenFiles": [
+    "_posts/2023-10-05-pintOS project 2 - syscall.md",
+    "_posts/2023-10-03-int 20 virtualization exception.md",
+    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+    "_posts/2023-10-03-(week08) pintOS project 2.md",
+    "_posts/2023-10-03-(week07) pintOS project 1.md",
+    "_posts/2023-10-04-pintos ERROR project 2.md",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "assets/images/Pasted image 20231006230043.png",
-    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "assets/images/Pasted image 20231006223512.png",
     "assets/images/Pasted image 20231006223431.png",
     "assets/images/Pasted image 20231006222823.png",
     "assets/images/Pasted image 20231006222640.png",
     "02. Daily Notes/2023-10-06.md",
-    "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "assets/images/Pasted image 20231006210332.png",
-    "_posts/2023-10-03-pintOS project 1 마감.md",
     "_templates/Daily template.md",
     "01. INDEX/SW사관학교 정글 7기.md",
     "assets/images/Pasted image 20231006192308.png",
@@ -257,12 +268,10 @@
     "_posts/2023-09-25-Interrupt.md",
     "assets/images/Pasted image 20231005233358.png",
     "assets/images/Pasted image 20231005233254.png",
-    "_posts/2023-10-04-pintos ERROR project 2.md",
     "_posts/2021-05-18-RGB value.md",
     "02. Daily Notes/2023-09-16.md",
     "02. Daily Notes/2023-09-19.md",
     "02. Daily Notes/2023-09-20.md",
-    "_posts/2023-10-03-pintOS project 2 발제.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
     "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
@@ -272,7 +281,6 @@
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "_posts/2023-09-30-priority inversion.md",
     "_posts/2023-09-26-PintOS 강의.md",
-    "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-02-init.c 분석.md",
     "02. Daily Notes",
     "_posts/assets/images",
