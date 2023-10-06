@@ -30,6 +30,7 @@ init.c -> main 에서 syscall_init() 을 통해 system_call을 처리할 수 있
 
 이때 사용하는 MSR(Model Specific register) 레지스터가 존재한다.
 
+---
 
 ![](assets/images/Pasted%20image%2020231006192308.png)
 
@@ -38,6 +39,15 @@ btsq 어셈블리 명령어로 r11 레지스터의 9번째 bit를 세팅한다. 
 jnb 명령어로 carry FLAG를 확인하고 으로 세팅되어 있으면 no_sti로 점프한다.
 
 즉 인터럽트가 활성화 상태라면  `no_sti`를 수행하고, 아니라면 sti를 수행하는 코드이다.
+
+---
+
+**no_sti** (syscall-entry.S)
+
+![](assets/images/Pasted%20image%2020231006210332.png)
+
+지금까지 syscall_handler를 호출한 주체를 찾았는데 여기에 있었다.
+syscall_handler를 호출하고 stack에 백업해둔 general register들을 복원하는 작업이다.
 
 
 
