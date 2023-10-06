@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_templates/Daily template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-03-pintOS project 1 마감.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,22 +221,24 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "a1b911d8dd470177",
+  "active": "212125b7a8fdecc1",
   "lastOpenFiles": [
+    "02. Daily Notes/2023-10-06.md",
+    "_posts/2023-10-03-pintOS project 1 마감.md",
+    "_templates/Daily template.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "assets/images/Pasted image 20231006192308.png",
     "assets/images/Pasted image 20231006192117.png",
     "_posts/2023-09-25-Interrupt.md",
-    "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "assets/images/Pasted image 20231005233358.png",
     "assets/images/Pasted image 20231005233254.png",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "assets/images/Pasted image 20231005165420.png",
     "assets/images/Pasted image 20231005165357.png",
-    "_posts/2023-10-03-pintOS project 1 마감.md",
     "_posts/2023-10-04-pintos ERROR project 2.md",
     "_posts/2021-05-18-RGB value.md",
     "02. Daily Notes/2023-09-16.md",
-    "_templates/Daily template.md",
     "02. Daily Notes/2023-09-19.md",
     "02. Daily Notes/2023-09-20.md",
     "_posts/2023-10-03-pintOS project 2 발제.md",
@@ -244,8 +246,6 @@
     "assets/images/Pasted image 20231005052647.png",
     "assets/images/Pasted image 20231005052402.png",
     "assets/images/Pasted image 20231005052303.png",
-    "assets/images/Pasted image 20231005052252.png",
-    "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
     "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",

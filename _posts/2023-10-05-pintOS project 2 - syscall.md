@@ -35,12 +35,15 @@ init.c -> main 에서 syscall_init() 을 통해 system_call을 처리할 수 있
 
 btsq 어셈블리 명령어로 r11 레지스터의 9번째 bit를 세팅한다. 이때 기존 bit가 0인지 확인한다.
 0이 였다면 `CARRY FLAG` 를 1로 세팅한다.
-jnb 명령어로 carry FLAG를 확인하고 1로 세팅되어 있으면 no_sti로 점프한다.
+jnb 명령어로 carry FLAG를 확인하고 으로 세팅되어 있으면 no_sti로 점프한다.
 
-즉 인터럽트가 비활성화 상태라면 인터럽트를 활성화 한뒤  (IF FLAG = 1) `no_sti`를 수행하고, 아니라면 sti를 수행하는 코드이다.
+즉 인터럽트가 활성화 상태라면  `no_sti`를 수행하고, 아니라면 sti를 수행하는 코드이다.
+
+
 
 이를통해
-1. syscall 호출시에 인터럽트는 비활성화 되어있어야 한다.
+1. syscall 호출시에 인터럽트는 활성화 되어있어야 한다.
+2. pintos 는 r11을 eflags register로 활용한다.
 
 
 
