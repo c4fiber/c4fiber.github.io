@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md"
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md"
               }
             }
           }
@@ -247,9 +247,9 @@
   },
   "active": "7462f1f3f7bcbba1",
   "lastOpenFiles": [
-    "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
+    "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "02. Daily Notes/2023-10-07.md",
     "02. Daily Notes/2023-10-06.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
