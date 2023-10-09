@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "93ad7c437fa2f820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7a84635d011e3d64",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
+                "file": "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
+                "file": "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md"
+                "file": "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md"
               }
             }
           }
@@ -245,10 +257,12 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "7462f1f3f7bcbba1",
+  "active": "93ad7c437fa2f820",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231004211055.png",
+    "assets/images/Pasted image 20231010035815.png",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
+    "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
+    "assets/images/Pasted image 20231004211055.png",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "02. Daily Notes/2023-10-07.md",
@@ -269,7 +283,6 @@
     "assets/images/Pasted image 20231006192117.png",
     "_posts/2023-09-25-Interrupt.md",
     "assets/images/Pasted image 20231005233358.png",
-    "assets/images/Pasted image 20231005233254.png",
     "_posts/2021-05-18-RGB value.md",
     "02. Daily Notes/2023-09-16.md",
     "02. Daily Notes/2023-09-19.md",
@@ -282,7 +295,6 @@
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "_posts/2023-09-30-priority inversion.md",
-    "_posts/2023-09-26-PintOS 강의.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
