@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md"
+                "file": "_posts/2023-09-25-Interrupt.md"
               }
             }
           }
@@ -271,8 +271,8 @@
   },
   "active": "307604a39326ff99",
   "lastOpenFiles": [
-    "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
     "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
     "assets/images/Pasted image 20231010035815.png",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "assets/images/Pasted image 20231004211055.png",
