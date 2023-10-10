@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+                "file": "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
+                "file": "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+                "file": "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+                "file": "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md"
+                "file": "_posts/2023-10-10-Palloc과 bitmap의 연관성.md"
               }
             }
           }
@@ -280,12 +280,12 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "9042f619eea7c637",
+  "active": "5a1a6a90ce0f9264",
   "lastOpenFiles": [
-    "_posts/2023-09-25-Interrupt.md",
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-10-Palloc고ㅏ bitmap의 연관성.md",
+    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+    "_posts/2023-09-25-Interrupt.md",
+    "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "assets/images/Pasted image 20231010035815.png",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "assets/images/Pasted image 20231004211055.png",
