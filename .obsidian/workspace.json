@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "file": "_posts/2023-10-10-pintOS 강의.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "file": "_posts/2023-10-10-pintOS 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "file": "_posts/2023-10-10-pintOS 강의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md"
+                "file": "_posts/2023-10-10-pintOS 강의.md"
               }
             }
           }
@@ -295,21 +295,21 @@
   },
   "active": "8e3ff934869012aa",
   "lastOpenFiles": [
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
-    "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
-    "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-09-25-Interrupt.md",
-    "assets/images/Pasted image 20231010035815.png",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
-    "assets/images/Pasted image 20231004211055.png",
-    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
-    "_posts/2023-10-05-pintOS project 2 - syscall.md",
-    "02. Daily Notes/2023-10-07.md",
-    "02. Daily Notes/2023-10-06.md",
-    "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-03-(week08) pintOS project 2.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
+    "_posts/2023-10-03-int 20 virtualization exception.md",
+    "_posts/2023-10-05-pintOS project 2 - syscall.md",
+    "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+    "_posts/2023-10-11-Supplemental Page Table.md",
+    "_posts/2023-09-25-Interrupt.md",
+    "assets/images/Pasted image 20231010035815.png",
+    "assets/images/Pasted image 20231004211055.png",
+    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+    "02. Daily Notes/2023-10-07.md",
+    "02. Daily Notes/2023-10-06.md",
     "_posts/2023-10-04-pintos ERROR project 2.md",
     "assets/images/Pasted image 20231006230043.png",
     "assets/images/Pasted image 20231006223512.png",
