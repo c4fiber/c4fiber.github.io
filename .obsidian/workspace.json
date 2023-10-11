@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8e3ff934869012aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10e6da9b638d694a",
             "type": "leaf",
             "state": {
@@ -151,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+                "file": "_posts/2023-10-11-Supplemental Page Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+                "file": "_posts/2023-10-11-Supplemental Page Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md"
+                "file": "_posts/2023-10-11-Supplemental Page Table.md"
               }
             }
           }
@@ -280,11 +293,12 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "9042f619eea7c637",
+  "active": "8e3ff934869012aa",
   "lastOpenFiles": [
+    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+    "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-09-25-Interrupt.md",
     "assets/images/Pasted image 20231010035815.png",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
@@ -317,7 +331,6 @@
     "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
     "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
