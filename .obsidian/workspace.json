@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7e23ba2f15e80a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-12-pml4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10e6da9b638d694a",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md",
+                "file": "_posts/2023-10-12-pml4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md",
+                "file": "_posts/2023-10-12-pml4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md"
+                "file": "_posts/2023-10-12-pml4.md"
               }
             }
           }
@@ -293,15 +305,16 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "8e3ff934869012aa",
+  "active": "7e23ba2f15e80a52",
   "lastOpenFiles": [
+    "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-12-pml4.md",
     "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "_posts/2023-10-03-(week08) pintOS project 2.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
-    "_posts/2023-10-10-pintOS 강의.md",
     "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-09-25-Interrupt.md",
@@ -330,7 +343,6 @@
     "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
     "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
     "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
-    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
