@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-15-pintos project3 lazy loading.md"
+                "file": "_posts/2023-09-24-pintos ERROR.md"
               }
             }
           }
@@ -331,10 +331,11 @@
   },
   "active": "3824e3a88e846e47",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20231016115323.png",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-12-pml4.md",
     "02. Daily Notes/2023-10-15.md",
     "assets/images/Pasted image 20231015145214.png",
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
@@ -366,7 +367,6 @@
     "02. Daily Notes/2023-09-20.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
-    "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
