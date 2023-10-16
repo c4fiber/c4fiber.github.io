@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-24-pintos ERROR.md",
+                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-24-pintos ERROR.md",
+                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-24-pintos ERROR.md",
+                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-24-pintos ERROR.md"
+                "file": "_posts/2023-10-15-pintos project3 lazy loading.md"
               }
             }
           }
@@ -329,11 +329,13 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "3824e3a88e846e47",
+  "active": "5a1a6a90ce0f9264",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231016115323.png",
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
+    "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-10-12-pml4.md",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
+    "_posts/2023-09-24-pintos ERROR.md",
+    "assets/images/Pasted image 20231016115323.png",
     "02. Daily Notes/2023-10-15.md",
     "assets/images/Pasted image 20231015145214.png",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
@@ -343,7 +345,6 @@
     "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "_posts/2023-10-10-pintOS 강의.md",
     "_posts/2023-10-10-pintOS 공부 링크 정리.md",
-    "_posts/2023-10-11-Supplemental Page Table.md",
     "assets/images/Pasted image 20231012193849.png",
     "assets/images/Pasted image 20231012192505.png",
     "assets/images/Pasted image 20231012191236.png",
@@ -355,7 +356,6 @@
     "_posts/2023-10-03-(week08) pintOS project 2.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2023-09-25-Interrupt.md",
-    "assets/images/Pasted image 20231010035815.png",
     "02. Daily Notes/2023-10-07.md",
     "02. Daily Notes/2023-10-06.md",
     "_posts/2023-10-04-pintos ERROR project 2.md",
