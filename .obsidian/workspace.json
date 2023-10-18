@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b1a9bba986bbc0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-24-pintos ERROR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-17-How to learn 정리.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-17-How to learn 정리.md",
+                "file": "_posts/2023-09-24-pintos ERROR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-17-How to learn 정리.md"
+                "file": "_posts/2023-09-24-pintos ERROR.md"
               }
             }
           }
@@ -341,10 +353,11 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "ae714a41b986d9de",
+  "active": "2b1a9bba986bbc0d",
   "lastOpenFiles": [
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
+    "assets/images/Pasted image 20231018133517.png",
     "_posts/2023-10-17-How to learn 정리.md",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-10-12-pml4.md",
     "_posts/2023-09-24-pintos ERROR.md",
@@ -378,7 +391,6 @@
     "02. Daily Notes/2023-09-16.md",
     "02. Daily Notes/2023-09-19.md",
     "02. Daily Notes/2023-09-20.md",
-    "_posts/2023-09-21-Synchronization.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",

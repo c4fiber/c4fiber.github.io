@@ -47,3 +47,9 @@ args 시리즈에서 나머지는 다 되는데 args-many만 수행되지 않는
 hash_find를 통해서 페이지가 존재하는지 확인하는 작업인데, 이상하게 여기서만 터진다.
 
 이전에도 list_sort를 수행하면서 list_next에서 터진적이 있었는데 비슷한 케이스로 보인다.
+
+
+## no "Timer: # ticks" message
+---
+![](assets/images/Pasted%20image%2020231018133517.png)
+
