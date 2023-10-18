@@ -64,6 +64,9 @@ fork-once의 경우 부모 프로그램이 실행되면서 이부분에 fault를
 이 때문에 aux를 여전히 보유한채로 supplement page copy가 수행되고, 자식 프로그램의 page는 aux가 담긴 주소값을 그대로 가져온다.
 
 문제는 child가 process exit을 호출할때 발생하는데
-이 과정에서 spt page kill을 수행하고 보유한 정보를 모두 free 시키는데 여기에 부모에게서 받은 aux가 존재한다.
+이 과정에서 (process_cleanup에서 ) spt page kill을 수행하고 보유한 정보를 모두 free 시키는데 여기에 부모에게서 받은 aux가 존재한다.
 
-child가 종료된 이후 부모도 exit을 호출할때 spt page kill
+child가 종료된 이후 부모도 exit을 호출할때 spt page kill을 수행할 때 보유한 aux에 대해 free를 한번 더 수행하게 된다.
+
+이때문에 프로그램이 강제로 종료되고, fork-once complete라는 결과는 출력되지만
+그 이후에 나오는 timer ticks부분이 제대로 출력되지 않기 때문에 테스트는 통과하지 못했다.
