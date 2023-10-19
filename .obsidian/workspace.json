@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+                "file": "02. Daily Notes/2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+                "file": "02. Daily Notes/2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+                "file": "02. Daily Notes/2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md"
+                "file": "02. Daily Notes/2023-10-19.md"
               }
             }
           }
@@ -367,8 +367,9 @@
   },
   "active": "e04e3bd5fdcf1641",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231019030555.png",
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+    "02. Daily Notes/2023-10-19.md",
+    "assets/images/Pasted image 20231019030555.png",
     "_posts/2023-09-26-PintOS 강의.md",
     "assets/images/Pasted image 20231019024848.png",
     "_posts/2023-09-24-pintos ERROR.md",
