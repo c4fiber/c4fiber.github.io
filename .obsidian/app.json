@@ -10,5 +10,9 @@
     "_templates/"
   ],
   "useMarkdownLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "spellcheck": false,
+  "livePreview": true,
+  "foldHeading": false,
+  "foldIndent": false
 }
