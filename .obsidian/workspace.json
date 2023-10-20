@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2023-10-19.md",
+                "file": "02. Daily Notes/2023-10-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2023-10-19.md",
+                "file": "02. Daily Notes/2023-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2023-10-19.md",
+                "file": "02. Daily Notes/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2023-10-19.md"
+                "file": "02. Daily Notes/2023-10-21.md"
               }
             }
           }
@@ -367,6 +367,8 @@
   },
   "active": "e04e3bd5fdcf1641",
   "lastOpenFiles": [
+    "_posts/Untitled.md",
+    "02. Daily Notes/2023-10-21.md",
     "02. Daily Notes/2023-10-19.md",
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "assets/images/Pasted image 20231019030555.png",
@@ -401,8 +403,6 @@
     "_posts/2023-10-04-pintos ERROR project 2.md",
     "_templates/Daily template.md",
     "01. INDEX/SW사관학교 정글 7기.md",
-    "_posts/2021-05-18-RGB value.md",
-    "02. Daily Notes/2023-09-16.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
