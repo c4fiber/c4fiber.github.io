@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2023-10-21.md",
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2023-10-21.md",
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2023-10-21.md",
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2023-10-21.md"
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md"
               }
             }
           }
@@ -367,7 +367,7 @@
   },
   "active": "e04e3bd5fdcf1641",
   "lastOpenFiles": [
-    "_posts/Untitled.md",
+    "_posts/20.md",
     "02. Daily Notes/2023-10-21.md",
     "02. Daily Notes/2023-10-19.md",
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
