@@ -92,10 +92,24 @@ Tactical Tornado: 혼자서 수많은(약 80%만 작동하는) 저품질의 코
 좋은 디자인을 하기 위해서는 작동하는 코드로는 충분하지 않다는걸 깨닭아야 한다.
 작동하는 코드는 단 하나의 목표가 될 수 없다. not single goal, table stakes
 
+## cont'd (continued)
 
+![](assets/images/Pasted%20image%2020231022055158.png)
 
-you have to invest
-내 의견으로는 결국 다 돌아오게 된다.
+you have to invest. 내 의견으로는 결국 다 돌아오게 된다.
 
 초반엔 얼마나 천천히 가야하는가? 언제서야 tactical한 접근을 따라잡을 수 있나?
-6 ~ 12ㄱ
+내 의견으로는 왜 이러한 접근을 해야하는지 깨닭고 난 후 6 ~ 12개월정도 걸린다고 생각한다.
+
+## How Much To Invest?
+
+![](assets/images/Pasted%20image%2020231022055328.png)
+
+망가진, crappy한 코드로도 성공은 할 수 있다.
+하지만 그러지 않고도 성공할 수 있다. Google, VMware는 그러지 않고도 성공했다.
+이런 좋은 문화를 가지고 있다면 최고의 프로그래머들을 끌어모으는데 꽤 좋은 위치에 서있게 될 것이다.
+우리는 10x 현상을 알고있다. 더 좋은 제품을, 더 빠르게 만들고 제공하기 위해서는 최고의 프로그래머들을 영입하는 것이다. 그래서 좋은 디자인 문화를 강하게 지지한다면 최고의 인재르 고용할 수 있게 해준다고 생각한다.
+(I think the strongest argumentin favor of a good design culture is that it allows you to hire top people)
+
+얼마나 투자할 것인가? 내가 다시 물어보자면 얼마나 투자할 수 있는가?
+
