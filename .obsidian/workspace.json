@@ -241,14 +241,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b36369092ddc6eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-22-.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -314,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+                "file": "_posts/2023-10-22-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+                "file": "_posts/2023-10-22-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md"
+                "file": "_posts/2023-10-22-.md"
               }
             }
           }
@@ -377,14 +389,16 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "bcdb2b6659368d23",
+  "active": "9b36369092ddc6eb",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231022164828.png",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "_posts/2023-10-22-.md",
+    "_posts/2023-10-17-How to learn 정리.md",
+    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+    "assets/images/Pasted image 20231022164828.png",
     "02. Daily Notes/2023-10-22.md",
     "_posts/2023-10-15-pintos project3 lazy loading.md",
     "assets/images/Pasted image 20231022103936.png",
-    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "assets/images/Pasted image 20231022055328.png",
     "assets/images/Pasted image 20231022055158.png",
     "assets/images/Pasted image 20231022050247.png",
@@ -398,10 +412,8 @@
     "assets/images/Pasted image 20231019024848.png",
     "_posts/2023-09-24-pintos ERROR.md",
     "assets/images/Pasted image 20231018133517.png",
-    "_posts/2023-10-17-How to learn 정리.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-10-12-pml4.md",
-    "assets/images/Pasted image 20231016115323.png",
     "02. Daily Notes/2023-10-15.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
