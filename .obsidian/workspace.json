@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
                 "mode": "source",
                 "source": false
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md"
+                "file": "_posts/2023-10-19-Google Talk - John Ousterhout.md"
               }
             }
           }
@@ -379,8 +379,8 @@
   },
   "active": "bcdb2b6659368d23",
   "lastOpenFiles": [
-    "02. Daily Notes/2023-10-22.md",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "02. Daily Notes/2023-10-22.md",
     "_posts/2023-10-15-pintos project3 lazy loading.md",
     "assets/images/Pasted image 20231022103936.png",
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
