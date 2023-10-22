@@ -54,7 +54,7 @@ Can great programmer be taught?
 
 ![](/assets/images/Pasted%20image%2020231019024848.png)
 
-## 존재하지 않는 에러를 정의하라.
+## 존재하지 않는 에러를 정의하라.
 
 ![](/assets/images/Pasted%20image%2020231022045121.png)
 
