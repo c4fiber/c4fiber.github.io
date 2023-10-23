@@ -51,3 +51,6 @@ extern
 
 ## block scope
 
+
+## Incomplete Types
+https://learn.microsoft.com/en-us/cpp/c-language/incomplete-types?view=msvc-170
