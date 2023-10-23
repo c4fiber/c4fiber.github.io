@@ -49,4 +49,5 @@ extern
 
 **둘 다 block scope** 내에 존재한다면 그 안에서만 유효하다.
 
+## block scope
 
