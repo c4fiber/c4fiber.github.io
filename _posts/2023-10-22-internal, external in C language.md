@@ -43,6 +43,10 @@ static
 extern
 - external linkage: 외부와 연결된다.
 - 여러 소스파일에서 동일하게 사용할 수 있다.
-- 서로 다른 파일에서 같은 이름으로 선언하면 충돌이 발
+- 서로 다른 파일에서 같은 이름으로 선언하면 충돌이 발생할 수 있다.
+	- internal linkage로 동일한 이름으로의 선언이 있으면 internal linkage로 인식된다.
+	- external linkage가 먼저 선언되었다면 external로 취급된다.
+
+**둘 다 block scope** 내에 존재한다면 그 안에서만 유효하다.
 
 
