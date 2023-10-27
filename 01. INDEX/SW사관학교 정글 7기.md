@@ -35,7 +35,7 @@ https://github.com/vmsandeeprao/HTTP-proxy-server/blob/master/proxy.c
 
 # week07 PintOS project 1-2
 
-pintos-kaist git: https://casys-kaist.github.io/pintos-kaist/
+pintos-kaist gitbook: https://casys-kaist.github.io/pintos-kaist/
 
 작업 repository: https://github.com/c4fiber/pintos-kaist/branches
 
@@ -86,3 +86,11 @@ iret, iretw, iretq가 무엇인가? : [assembly - what's the difference between 
 - 단점: scheduling 시간이 오래걸린다.
 ### pintos 강의 : 권영진 교수님
  [abstraction](_posts/2023-09-26-PintOS%20강의.md) 
+
+### pintos 문서 번역
+https://yjohdev.notion.site/PROJECT-3-VIRTUAL-MEMORY-d16fc8d04f4d4829b7e25691a235901c
+
+## 조지아 CS 온라인 코스 (OS)
+https://omscs.gatech.edu/cs-6200-introduction-operating-systems-course-videos
+
+
