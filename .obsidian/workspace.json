@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "file": "02. Daily Notes/2023-10-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "file": "02. Daily Notes/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+                "file": "02. Daily Notes/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md"
+                "file": "02. Daily Notes/2023-10-28.md"
               }
             }
           }
@@ -391,10 +391,11 @@
   },
   "active": "9b36369092ddc6eb",
   "lastOpenFiles": [
+    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "02. Daily Notes/2023-10-28.md",
     "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-10-22-internal, external in C language.md",
     "assets/images/Pasted image 20231023194624.png",
-    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
     "02. Daily Notes/2023-10-24.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2023-09-30-linux kernel source 확인하기.md",
@@ -426,7 +427,6 @@
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
-    "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
