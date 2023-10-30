@@ -260,7 +260,7 @@
             }
           },
           {
-            "id": "951dd1de0abcd573",
+            "id": "af79f2fa18cb6c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -401,12 +401,12 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "951dd1de0abcd573",
+  "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231030192443.png",
-    "assets/images/Pasted image 20231030151021.png",
     "02. Daily Notes/2023-10-28.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "assets/images/Pasted image 20231030192443.png",
+    "assets/images/Pasted image 20231030151021.png",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
     "01. INDEX/SW사관학교 정글 7기.md",
     "_posts/2023-10-22-internal, external in C language.md",
@@ -432,7 +432,6 @@
     "_posts/20.md",
     "02. Daily Notes/2023-10-21.md",
     "02. Daily Notes/2023-10-19.md",
-    "assets/images/Pasted image 20231019030555.png",
     "_posts/2023-09-26-PintOS 강의.md",
     "_posts/2023-09-24-pintos ERROR.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
