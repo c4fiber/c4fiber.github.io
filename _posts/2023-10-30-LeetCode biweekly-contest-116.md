@@ -149,4 +149,5 @@ class Solution:
 
 풀이 출처: https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/discuss/4219300/Simple-Iterative-DP-(1-D)-%2B-Explanation-oror-Python-oror-6-lines-oror-Beats-100
 
-
+풀이를 보면 백준에서 풀었던 동전 분배 내지는 동전 2 문제와 매우 비슷하다.
+왜 풀지 못했을까.. 숙연해졌다.
