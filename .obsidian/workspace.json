@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-11-Supplemental Page Table.md"
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md"
               }
             }
           }
@@ -403,6 +403,10 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
+    "_posts/2023-10-11-Supplemental Page Table.md",
+    "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
     "_posts/2023-10-22-internal, external in C language.md",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
@@ -410,10 +414,6 @@
     "_posts/2023-10-17-How to learn 정리.md",
     "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-12-pml4.md",
-    "_posts/2023-10-11-Supplemental Page Table.md",
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
-    "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "_posts/2023-09-26-PintOS 강의.md",
