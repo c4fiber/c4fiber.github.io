@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md"
+                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md"
               }
             }
           }
@@ -403,10 +403,12 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "_posts/2023-09-26-PintOS 강의.md",
     "01. INDEX/SW사관학교 정글 7기.md",
     "02. Daily Notes/2023-12-19.md",
     "02. Daily Notes/2023-11-01.md",
-    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
     "02. Daily Notes/2023-10-28.md",
     "assets/images/Pasted image 20231030192443.png",
@@ -435,10 +437,8 @@
     "_posts/20.md",
     "02. Daily Notes/2023-10-21.md",
     "02. Daily Notes/2023-10-19.md",
-    "_posts/2023-09-26-PintOS 강의.md",
     "_posts/2023-09-24-pintos ERROR.md",
     "02. Daily Notes/2023-10-15.md",
-    "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
