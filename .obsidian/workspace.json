@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+                "file": "02. Daily Notes/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+                "file": "02. Daily Notes/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+                "file": "02. Daily Notes/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md"
+                "file": "02. Daily Notes/2023-12-19.md"
               }
             }
           }
@@ -403,8 +403,10 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
-    "_posts/2023-10-11-Supplemental Page Table.md",
+    "02. Daily Notes/2023-11-01.md",
+    "02. Daily Notes/2023-12-19.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "_posts/2023-10-11-Supplemental Page Table.md",
     "02. Daily Notes/2023-10-28.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
@@ -437,7 +439,6 @@
     "_posts/2023-09-24-pintos ERROR.md",
     "02. Daily Notes/2023-10-15.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
-    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
