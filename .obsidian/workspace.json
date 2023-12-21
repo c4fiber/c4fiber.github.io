@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2023-12-21.md",
+                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2023-12-21.md",
+                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2023-12-21.md",
+                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2023-12-21.md"
+                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md"
               }
             }
           }
@@ -387,7 +387,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -403,8 +404,12 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
-    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
+    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
+    "_posts/2022-03-04-baekjoon-1654.md",
+    "_posts/2021-07-29-pytorch-study.md",
     "02. Daily Notes/2023-12-21.md",
+    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "_posts/2023-10-17-How to learn 정리.md",
     "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
@@ -428,17 +433,13 @@
     "02. Daily Notes/2023-10-24.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2023-09-30-linux kernel source 확인하기.md",
-    "_posts/2023-09-26-far pointer.md",
-    "_posts/2023-09-25-Interrupt.md",
     "assets/images/Pasted image 20231022164828.png",
-    "02. Daily Notes/2023-10-22.md",
     "assets/images/Pasted image 20231022103936.png",
     "assets/images/Pasted image 20231022055328.png",
     "assets/images/Pasted image 20231022055158.png",
     "assets/images/Pasted image 20231022050247.png",
     "assets/images/Pasted image 20231022045121.png",
     "assets/images/Pasted image 20231022045100.png",
-    "_posts/20.md",
     "02. Daily Notes",
     "_posts/assets/images",
     "_posts/assets",
