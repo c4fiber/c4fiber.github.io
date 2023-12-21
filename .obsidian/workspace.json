@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
+                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
+                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
+                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md"
+                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md"
               }
             }
           }
@@ -402,8 +402,10 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "af79f2fa18cb6c3a",
+  "active": "5a1a6a90ce0f9264",
   "lastOpenFiles": [
+    "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
+    "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
     "_posts/2022-03-04-baekjoon-1654.md",
@@ -431,8 +433,6 @@
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
     "02. Daily Notes/2023-10-24.md",
-    "_posts/2023-10-03-(week07) pintOS project 1.md",
-    "_posts/2023-09-30-linux kernel source 확인하기.md",
     "assets/images/Pasted image 20231022164828.png",
     "assets/images/Pasted image 20231022103936.png",
     "assets/images/Pasted image 20231022055328.png",
