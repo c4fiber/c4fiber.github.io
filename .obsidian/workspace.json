@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
+                "file": "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
+                "file": "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
+                "file": "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md"
+                "file": "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md"
               }
             }
           }
@@ -402,8 +402,11 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "5a1a6a90ce0f9264",
+  "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-09-19-SIGPIPE handle.md",
+    "_posts/2023-09-17-왜 connect()에 실패한 clientfd를 재사용하지 않는가?.md",
+    "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
     "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
     "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
@@ -427,12 +430,9 @@
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "_posts/2023-09-26-PintOS 강의.md",
     "01. INDEX/SW사관학교 정글 7기.md",
-    "02. Daily Notes/2023-11-01.md",
-    "02. Daily Notes/2023-10-28.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
-    "02. Daily Notes/2023-10-24.md",
     "assets/images/Pasted image 20231022164828.png",
     "assets/images/Pasted image 20231022103936.png",
     "assets/images/Pasted image 20231022055328.png",
