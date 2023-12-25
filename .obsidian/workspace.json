@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md"
+                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md"
               }
             }
           }
@@ -404,8 +404,18 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
-    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+    "_posts/2023-10-22-internal, external in C language.md",
+    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "_posts/2023-10-17-How to learn 정리.md",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
+    "_posts/2023-10-11-Supplemental Page Table.md",
+    "_posts/2023-10-12-pml4.md",
+    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+    "_posts/2023-10-10-pintOS 강의.md",
     "_posts/2023-09-25-Interrupt.md",
+    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
     "_posts/2023-09-24-pintos Alarm clock.md",
     "_posts/2023-09-21-Synchronization.md",
@@ -420,16 +430,6 @@
     "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
     "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
     "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
-    "_posts/2023-09-16-옵시디언와 지킬의 연동성 체크5.md",
-    "_posts/2022-03-04-baekjoon-1654.md",
-    "_posts/2021-07-29-pytorch-study.md",
-    "02. Daily Notes/2023-12-21.md",
-    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
-    "_posts/2023-10-17-How to learn 정리.md",
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
-    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
-    "_posts/2023-10-22-internal, external in C language.md",
-    "02. Daily Notes/2023-12-19.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
