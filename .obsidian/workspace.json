@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-25-Interrupt.md"
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md"
               }
             }
           }
@@ -402,11 +402,11 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "af79f2fa18cb6c3a",
+  "active": "5a1a6a90ce0f9264",
   "lastOpenFiles": [
+    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
     "_posts/2023-09-24-pintos Alarm clock.md",
-    "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
