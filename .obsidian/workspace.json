@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md",
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-26-PintOS 강의.md"
+                "file": "_posts/2023-10-03-int 20 virtualization exception.md"
               }
             }
           }
@@ -404,6 +404,11 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-10-02-init.c 분석.md",
+    "_posts/2023-09-30-priority inversion.md",
+    "_posts/2023-09-30-linux kernel source 확인하기.md",
+    "_posts/2023-09-26-far pointer.md",
+    "_posts/2023-09-26-PintOS 강의.md",
     "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
     "_posts/2023-10-22-internal, external in C language.md",
@@ -425,11 +430,6 @@
     "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md",
     "_posts/2023-09-22-Threads.md",
     "_posts/2023-09-24-pintos ERROR.md",
-    "_posts/2023-09-17-왜 connect()에 실패한 clientfd를 재사용하지 않는가?.md",
-    "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
-    "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
-    "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
-    "_posts/2023-09-16-옵시디언 사용 구조 확립.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
