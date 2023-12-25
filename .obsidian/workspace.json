@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md",
+                "file": "_posts/2023-09-25-Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-20-Rio_readinitb의 역할.md"
+                "file": "_posts/2023-09-25-Interrupt.md"
               }
             }
           }
@@ -404,9 +404,16 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-09-25-mutex vs semaphore.md",
+    "_posts/2023-09-24-pintos Alarm clock.md",
+    "_posts/2023-09-25-Interrupt.md",
+    "_posts/2023-09-21-Synchronization.md",
+    "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
     "_posts/2023-09-19-SIGPIPE handle.md",
     "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md",
+    "_posts/2023-09-22-Threads.md",
+    "_posts/2023-09-24-pintos ERROR.md",
     "_posts/2023-09-17-왜 connect()에 실패한 clientfd를 재사용하지 않는가?.md",
     "_posts/2023-09-17-매번 연결 시도를 하면서 client socket을 닫는 이유.md",
     "_posts/2023-09-17-AI_ADDRCONFIG flag의 역할.md",
@@ -423,13 +430,6 @@
     "_posts/2023-10-22-internal, external in C language.md",
     "02. Daily Notes/2023-12-19.md",
     "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
-    "_posts/2023-10-11-Supplemental Page Table.md",
-    "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
-    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
-    "_posts/2023-10-12-pml4.md",
-    "_posts/2023-10-06-Stack Alignment in x86-64.md",
-    "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
