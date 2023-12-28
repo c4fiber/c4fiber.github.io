@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md",
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-03-int 20 virtualization exception.md"
+                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md"
               }
             }
           }
@@ -404,6 +404,10 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-10-03-(week08) pintOS project 2.md",
+    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+    "_posts/2023-10-03-(week07) pintOS project 1.md",
+    "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-02-init.c 분석.md",
     "_posts/2023-09-30-priority inversion.md",
     "_posts/2023-09-30-linux kernel source 확인하기.md",
@@ -420,16 +424,12 @@
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
     "_posts/2023-09-24-pintos Alarm clock.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
     "_posts/2023-09-19-HTTP 206 Partial Content.md",
     "_posts/2023-09-19-SIGPIPE handle.md",
-    "_posts/2023-09-17-c socket 통신에서의 blocking, non blocking.md",
-    "_posts/2023-09-22-Threads.md",
-    "_posts/2023-09-24-pintos ERROR.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
