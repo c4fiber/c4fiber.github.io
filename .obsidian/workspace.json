@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md"
+                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md"
               }
             }
           }
@@ -404,8 +404,8 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
-    "_posts/2023-10-03-(week08) pintOS project 2.md",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+    "_posts/2023-10-03-(week08) pintOS project 2.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2023-10-03-int 20 virtualization exception.md",
     "_posts/2023-10-02-init.c 분석.md",
