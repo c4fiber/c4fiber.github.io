@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md",
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-05-pintOS project 2 - syscall.md"
+                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md"
               }
             }
           }
@@ -404,6 +404,8 @@
   },
   "active": "af79f2fa18cb6c3a",
   "lastOpenFiles": [
+    "_posts/2023-10-05-pintOS project 2 - syscall.md",
+    "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
     "_posts/2023-10-03-(week08) pintOS project 2.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
@@ -428,8 +430,6 @@
     "_posts/2023-09-24-pintos Alarm clock.md",
     "_posts/2023-09-21-Synchronization.md",
     "_posts/2023-09-20-Rio_readinitb의 역할.md",
-    "_posts/2023-09-19-HTTP 206 Partial Content.md",
-    "_posts/2023-09-19-SIGPIPE handle.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
