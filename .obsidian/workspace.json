@@ -270,9 +270,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03bff9404f8eff6f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -402,7 +412,7 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "af79f2fa18cb6c3a",
+  "active": "03bff9404f8eff6f",
   "lastOpenFiles": [
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
     "02. Daily Notes/2024-01-07.md",
