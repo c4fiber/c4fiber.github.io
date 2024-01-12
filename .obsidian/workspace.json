@@ -275,9 +275,11 @@
             "id": "03bff9404f8eff6f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "02. Daily Notes/2024-01-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -348,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2024-01-07.md",
+                "file": "02. Daily Notes/2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2024-01-07.md",
+                "file": "02. Daily Notes/2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2024-01-07.md"
+                "file": "02. Daily Notes/2024-01-12.md"
               }
             }
           }
@@ -414,6 +416,8 @@
   },
   "active": "03bff9404f8eff6f",
   "lastOpenFiles": [
+    "_posts/2023-10-12-pml4.md",
+    "02. Daily Notes/2024-01-12.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
     "02. Daily Notes/2024-01-07.md",
     "_posts/2023-10-22-internal, external in C language.md",
@@ -421,7 +425,6 @@
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "_posts/2023-10-17-How to learn 정리.md",
     "_posts/2023-10-15-pintos project3 lazy loading.md",
-    "_posts/2023-10-12-pml4.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
     "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-10-10-pintOS 강의.md",
@@ -439,7 +442,6 @@
     "_posts/2023-09-26-PintOS 강의.md",
     "_posts/2023-09-25-Interrupt.md",
     "_posts/2023-09-25-mutex vs semaphore.md",
-    "_posts/2023-09-24-pintos Alarm clock.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
