@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2024-01-12.md",
+                "file": "_posts/2023-10-22-internal, external in C language.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2024-01-12.md",
+                "file": "_posts/2023-10-22-internal, external in C language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2024-01-12.md",
+                "file": "_posts/2023-10-22-internal, external in C language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2024-01-12.md"
+                "file": "_posts/2023-10-22-internal, external in C language.md"
               }
             }
           }
@@ -416,9 +416,9 @@
   },
   "active": "03bff9404f8eff6f",
   "lastOpenFiles": [
-    "_posts/2023-10-12-pml4.md",
-    "02. Daily Notes/2024-01-12.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "02. Daily Notes/2024-01-12.md",
+    "_posts/2023-10-12-pml4.md",
     "02. Daily Notes/2024-01-07.md",
     "_posts/2023-10-22-internal, external in C language.md",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
