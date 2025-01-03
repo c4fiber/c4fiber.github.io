@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2025-01-03.md",
+                "file": "_posts/2023-10-03-(week07) pintOS project 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2025-01-03.md",
+                "file": "_posts/2023-10-03-(week07) pintOS project 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2025-01-03.md",
+                "file": "_posts/2023-10-03-(week07) pintOS project 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2025-01-03.md"
+                "file": "_posts/2023-10-03-(week07) pintOS project 1.md"
               }
             }
           }
@@ -416,32 +416,32 @@
   },
   "active": "03bff9404f8eff6f",
   "lastOpenFiles": [
-    "_posts/2023-10-22-internal, external in C language.md",
-    "02. Daily Notes/2025-01-03.md",
-    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
-    "02. Daily Notes/2024-01-12.md",
+    "_posts/2023-09-24-pintos Alarm clock.md",
+    "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2023-10-12-pml4.md",
-    "02. Daily Notes/2024-01-07.md",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "_posts/2024-12-18-CDPATH-활용하기.md",
+    "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "01. INDEX/Game.md",
+    "01. INDEX/Raspberry pi4.md",
+    "01. INDEX/references.md",
+    "01. INDEX/Python.md",
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "_posts/2023-10-17-How to learn 정리.md",
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-11-Supplemental Page Table.md",
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
     "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "02. Daily Notes/2025-01-03.md",
+    "_posts/2023-10-22-internal, external in C language.md",
+    "02. Daily Notes/2024-01-12.md",
+    "02. Daily Notes/2024-01-07.md",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
     "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
     "_posts/2023-10-06-Stack Alignment in x86-64.md",
     "_posts/2023-10-05-pintOS project 2 - syscall.md",
     "_posts/2023-10-04-pintOS project 2 - argument passing.md",
-    "_posts/2023-10-03-(week08) pintOS project 2.md",
-    "_posts/2023-10-03-(week07) pintOS project 1.md",
-    "_posts/2023-10-03-int 20 virtualization exception.md",
-    "_posts/2023-10-02-init.c 분석.md",
-    "_posts/2023-09-30-priority inversion.md",
-    "_posts/2023-09-30-linux kernel source 확인하기.md",
-    "_posts/2023-09-26-far pointer.md",
-    "_posts/2023-09-26-PintOS 강의.md",
-    "_posts/2023-09-25-Interrupt.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
