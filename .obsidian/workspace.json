@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-22-internal, external in C language.md",
+                "file": "02. Daily Notes/2025-01-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-22-internal, external in C language.md",
+                "file": "02. Daily Notes/2025-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-22-internal, external in C language.md",
+                "file": "02. Daily Notes/2025-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-22-internal, external in C language.md"
+                "file": "02. Daily Notes/2025-01-03.md"
               }
             }
           }
@@ -416,11 +416,12 @@
   },
   "active": "03bff9404f8eff6f",
   "lastOpenFiles": [
+    "_posts/2023-10-22-internal, external in C language.md",
+    "02. Daily Notes/2025-01-03.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
     "02. Daily Notes/2024-01-12.md",
     "_posts/2023-10-12-pml4.md",
     "02. Daily Notes/2024-01-07.md",
-    "_posts/2023-10-22-internal, external in C language.md",
     "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
     "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "_posts/2023-10-17-How to learn 정리.md",
@@ -441,7 +442,6 @@
     "_posts/2023-09-26-far pointer.md",
     "_posts/2023-09-26-PintOS 강의.md",
     "_posts/2023-09-25-Interrupt.md",
-    "_posts/2023-09-25-mutex vs semaphore.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
