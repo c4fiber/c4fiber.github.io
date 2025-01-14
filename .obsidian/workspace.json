@@ -8,343 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9042f619eea7c637",
+            "id": "6f5a74f1961728f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-pintOS 공부 링크 정리.md",
+                "file": "_posts/2025-01-06-test_page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-10-10-pintOS 공부 링크 정리"
-            }
-          },
-          {
-            "id": "8e3ff934869012aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-10-pintOS 강의.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-10-pintOS 강의"
-            }
-          },
-          {
-            "id": "7e23ba2f15e80a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-12-pml4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-12-pml4"
-            }
-          },
-          {
-            "id": "5f26b150eff91d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-15-pintos project3 lazy loading"
-            }
-          },
-          {
-            "id": "3824e3a88e846e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-15-pintos project3 lazy loading.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-15-pintos project3 lazy loading"
-            }
-          },
-          {
-            "id": "ae714a41b986d9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-17-How to learn 정리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-17-How to learn 정리"
-            }
-          },
-          {
-            "id": "10e6da9b638d694a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. INDEX/SW사관학교 정글 7기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SW사관학교 정글 7기"
-            }
-          },
-          {
-            "id": "8d63e5c02cbfcc8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-09-25-Interrupt"
-            }
-          },
-          {
-            "id": "de92ba3991258197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-09-25-Interrupt"
-            }
-          },
-          {
-            "id": "8ed9f5998f1c908e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-03-(week08) pintOS project 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-03-(week08) pintOS project 2"
-            }
-          },
-          {
-            "id": "9df2b8a02cce145c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-04-pintOS project 2 - argument passing"
-            }
-          },
-          {
-            "id": "a1b911d8dd470177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/Daily template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily template"
-            }
-          },
-          {
-            "id": "212125b7a8fdecc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Daily Notes/2023-10-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-06"
-            }
-          },
-          {
-            "id": "7462f1f3f7bcbba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-06-Stack Alignment in x86-64.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-06-Stack Alignment in x86-64"
-            }
-          },
-          {
-            "id": "93ad7c437fa2f820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-10-Palloc과 bitmap의 연관성"
-            }
-          },
-          {
-            "id": "307604a39326ff99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-25-Interrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-09-25-Interrupt"
-            }
-          },
-          {
-            "id": "7a84635d011e3d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-04-pintOS project 2 - argument passing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-04-pintOS project 2 - argument passing"
-            }
-          },
-          {
-            "id": "2b1a9bba986bbc0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-24-pintos ERROR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-09-24-pintos ERROR"
-            }
-          },
-          {
-            "id": "e04e3bd5fdcf1641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Daily Notes/2023-10-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-22"
-            }
-          },
-          {
-            "id": "bcdb2b6659368d23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-22-pintos project3 swap_in, swap_out"
-            }
-          },
-          {
-            "id": "9b36369092ddc6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Daily Notes/2023-10-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-28"
-            }
-          },
-          {
-            "id": "af79f2fa18cb6c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Daily Notes/2024-01-07.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-01-07"
-            }
-          },
-          {
-            "id": "03bff9404f8eff6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-10-30-LeetCode biweekly-contest-116"
-            }
-          },
-          {
-            "id": "84e394491e75083a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Daily Notes/2025-01-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-14"
+              "title": "2025-01-06-test_page"
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -416,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Daily Notes/2025-01-14.md",
+                "file": "_posts/2025-01-06-test_page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -426,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-14"
+              "title": "Backlinks for 2025-01-06-test_page"
             }
           },
           {
@@ -435,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Daily Notes/2025-01-14.md",
+                "file": "_posts/2025-01-06-test_page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-14"
+              "title": "Outgoing links from 2025-01-06-test_page"
             }
           },
           {
@@ -462,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Daily Notes/2025-01-14.md"
+                "file": "_posts/2025-01-06-test_page.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-14"
+              "title": "Outline of 2025-01-06-test_page"
             }
           }
         ],
@@ -488,35 +165,35 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "84e394491e75083a",
+  "active": "6f5a74f1961728f2",
   "lastOpenFiles": [
-    "02. Daily Notes/2025-01-14.md",
     "_posts/2024-12-18-CDPATH-활용하기.md",
+    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
+    "_posts/2025-01-06-test_page.md",
+    "_posts/2025-01-14-리눅스 마스터 준비하기.md",
+    "02. Daily Notes/2024-01-07.md",
+    "02. Daily Notes/2023-10-28.md",
+    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "02. Daily Notes/2023-10-22.md",
+    "_posts/2023-09-24-pintos ERROR.md",
+    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
+    "_posts/2023-09-25-Interrupt.md",
+    "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
+    "_posts/2023-10-06-Stack Alignment in x86-64.md",
+    "02. Daily Notes/2023-10-06.md",
+    "_templates/Daily template.md",
+    "_posts/2023-10-03-(week08) pintOS project 2.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "_posts/2023-10-17-How to learn 정리.md",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
+    "_posts/2023-10-10-pintOS 강의.md",
+    "_posts/2023-10-12-pml4.md",
+    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
+    "_posts/2023-10-22-internal, external in C language.md",
+    "02. Daily Notes/2025-01-14.md",
     "_posts/2023-10-03-(week07) pintOS project 1.md",
     "_posts/2025-01-06-test_page~.md",
     "assets/images/image-20250106171437197.png",
-    "_posts/2025-01-06-test_page.md",
-    "_posts/Untitled.md",
-    "_posts/2023-09-24-pintos Alarm clock.md",
-    "_posts/2023-10-12-pml4.md",
-    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
-    "_posts/2023-09-16-서버와 클라이언트가 연결하는 방법.md",
-    "01. INDEX/SW사관학교 정글 7기.md",
-    "01. INDEX/Game.md",
-    "01. INDEX/Raspberry pi4.md",
-    "01. INDEX/references.md",
-    "01. INDEX/Python.md",
-    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
-    "_posts/2023-10-17-How to learn 정리.md",
-    "_posts/2023-10-11-Supplemental Page Table.md",
-    "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-10-pintOS 공부 링크 정리.md",
-    "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
-    "02. Daily Notes/2025-01-03.md",
-    "_posts/2023-10-22-internal, external in C language.md",
-    "02. Daily Notes/2024-01-12.md",
-    "02. Daily Notes/2024-01-07.md",
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",
     "assets/images/Pasted image 20231023194624.png",
