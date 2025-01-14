@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-06-test_page.md",
+                "file": "02. Daily Notes/2025-01-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-06-test_page"
+              "title": "2025-01-14"
             }
           }
         ]
@@ -167,9 +167,9 @@
   },
   "active": "6f5a74f1961728f2",
   "lastOpenFiles": [
+    "_posts/2025-01-06-test_page.md",
     "_posts/2024-12-18-CDPATH-활용하기.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
-    "_posts/2025-01-06-test_page.md",
     "_posts/2025-01-14-리눅스 마스터 준비하기.md",
     "02. Daily Notes/2024-01-07.md",
     "02. Daily Notes/2023-10-28.md",
