@@ -1,7 +1,9 @@
 ---
 title: eclipse mariaDB jdbc driver가 작동하는 이유
 categories: Java
-tags: database jdbc driver
+tags:
+  - database
+  - mariadb
 typora-root-url: ../
 typora-copy-images-to: ../assets/images
 ---

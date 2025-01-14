@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Daily Notes/2025-01-14.md",
+                "file": "_posts/2021-07-27-maria-db-jdbc-driver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-14"
+              "title": "2021-07-27-maria-db-jdbc-driver"
+            }
+          },
+          {
+            "id": "f2ad62a43c1d61c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FOV",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,11 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2025-01-06-test_page.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-06-test_page"
+              "title": "Outline"
             }
           }
         ],
@@ -165,34 +175,35 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "6f5a74f1961728f2",
+  "active": "f2ad62a43c1d61c8",
   "lastOpenFiles": [
+    "_posts/2021-05-19-fps-fov-sensitivity.md",
+    "_posts/2023-09-25-mutex vs semaphore.md",
+    "_posts/2023-09-21-Synchronization.md",
+    "_posts/2025-01-14-linux master 2.md",
+    "_posts/Untitled.md",
+    "_posts/2025-01-06-test_page~.md",
+    "_posts/2025-01-14-리눅스 마스터 준비하기.md",
+    "01. INDEX/SW사관학교 정글 7기.md",
+    "02. Daily Notes/2025-01-14.md",
+    "_posts/2021-07-27-maria-db-jdbc-driver.md",
+    "_posts/2021-05-18-리눅스 파일시스템 이해.md",
+    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
+    "_posts/2023-09-19-HTTP 206 Partial Content.md",
+    "_posts/2023-09-19-SIGPIPE handle.md",
     "_posts/2025-01-06-test_page.md",
+    "_posts/2023-09-24-pintos Alarm clock.md",
+    "_posts/2023-10-03-(week07) pintOS project 1.md",
+    "_posts/2023-09-30-linux kernel source 확인하기.md",
+    "_posts/2023-10-15-pintos project3 lazy loading.md",
+    "Untitled.canvas",
+    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
     "_posts/2024-12-18-CDPATH-활용하기.md",
     "_posts/2023-10-30-LeetCode biweekly-contest-116.md",
-    "_posts/2025-01-14-리눅스 마스터 준비하기.md",
     "02. Daily Notes/2024-01-07.md",
     "02. Daily Notes/2023-10-28.md",
-    "_posts/2023-10-22-pintos project3 swap_in, swap_out.md",
     "02. Daily Notes/2023-10-22.md",
     "_posts/2023-09-24-pintos ERROR.md",
-    "_posts/2023-10-04-pintOS project 2 - argument passing.md",
-    "_posts/2023-09-25-Interrupt.md",
-    "_posts/2023-10-10-Palloc과 bitmap의 연관성.md",
-    "_posts/2023-10-06-Stack Alignment in x86-64.md",
-    "02. Daily Notes/2023-10-06.md",
-    "_templates/Daily template.md",
-    "_posts/2023-10-03-(week08) pintOS project 2.md",
-    "01. INDEX/SW사관학교 정글 7기.md",
-    "_posts/2023-10-17-How to learn 정리.md",
-    "_posts/2023-10-15-pintos project3 lazy loading.md",
-    "_posts/2023-10-10-pintOS 강의.md",
-    "_posts/2023-10-12-pml4.md",
-    "_posts/2023-10-19-Google Talk - John Ousterhout.md",
-    "_posts/2023-10-22-internal, external in C language.md",
-    "02. Daily Notes/2025-01-14.md",
-    "_posts/2023-10-03-(week07) pintOS project 1.md",
-    "_posts/2025-01-06-test_page~.md",
     "assets/images/image-20250106171437197.png",
     "assets/images/Pasted image 20231030192443.png",
     "assets/images/Pasted image 20231030151021.png",

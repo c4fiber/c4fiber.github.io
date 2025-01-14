@@ -1,8 +1,9 @@
 ---
-title: "FPS sensitivity, FOV setting sites"
+title: FPS sensitivity, FOV setting sites
 date: 2021-05-19
 categories: Game
-tags: FPS Sensitivity FOV ApexLegends RainbowSix Siege
+tags:
+  - FPS
 typora-root-url: ../
 ---
 
