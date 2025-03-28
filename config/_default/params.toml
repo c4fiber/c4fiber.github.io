@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = "Do ut Des"
+since = 2025
+customText = ""
 
 [dateFormat]
 published = "Mar 28, 2025"
@@ -14,7 +14,7 @@ lastUpdated = "Mar 28, 2025 14:01 KST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = ""
+subtitle = "Do ut Des"
 
 [sidebar.avatar]
 enabled = true
