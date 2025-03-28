@@ -6,7 +6,7 @@ tags:
  - bash
  - cli
 categories:
-date: 2025-03-18, Tuesday, 16:22:41
+date: 2025-03-18 16:22:41
 ---
 
 ## 인자 관련 위치 매개변수 (Positional Parameters)
