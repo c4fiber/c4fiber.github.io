@@ -47,5 +47,10 @@
 		"ghcr.io/devcontainers/features/go:1": {
 			"version": "latest"
 		}
+	},
+
+	// Timezone configure
+	"remoteEnv": {
+		"TZ": "Asia/Seoul"
 	}
 }
