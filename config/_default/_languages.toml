@@ -2,5 +2,11 @@
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Example Site"
+title = "Bookish Potato"
+weight = 2
+
+[ko]
+languageName = "Korean"
+languagedirection = "ltr"
+title = "책을 좋아하는 감자"
 weight = 1
