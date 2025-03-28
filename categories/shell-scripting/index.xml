@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shell Scripting on Bookish Potato</title><link>https://c4fiber.github.io/categories/shell-scripting/</link><description>Recent content in Shell Scripting on Bookish Potato</description><generator>Hugo -- gohugo.io</generator><language>ko-KR</language><lastBuildDate>Tue, 18 Mar 2025 16:22:41 +0000</lastBuildDate><atom:link href="https://c4fiber.github.io/categories/shell-scripting/index.xml" rel="self" type="application/rss+xml"/><item><title>bash 특수 변수</title><link>https://c4fiber.github.io/p/bash-%ED%8A%B9%EC%88%98-%EB%B3%80%EC%88%98/</link><pubDate>Tue, 18 Mar 2025 16:22:41 +0000</pubDate><guid>https://c4fiber.github.io/p/bash-%ED%8A%B9%EC%88%98-%EB%B3%80%EC%88%98/</guid><description>&lt;h2 id="인자-관련-위치-매개변수-positional-parameters">인자 관련 위치 매개변수 (Positional Parameters)
+&lt;/h2>&lt;ul>
+&lt;li>$0
+&lt;ul>
+&lt;li>현재 실행중인 스크립트의 이름&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$1, $2, &amp;hellip;
+&lt;ul>
+&lt;li>전달된 인자 (각각 순서대로)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$#
+&lt;ul>
+&lt;li>인자의 개수&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$@
+&lt;ul>
+&lt;li>전달된 모든 인자 (개별 문자열, 공백으로 구분)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;$*&amp;rdquo;
+&lt;ul>
+&lt;li>모든 인자 (단일 문자열, 공백으로 구분)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="프로세스-관련-특수-변수">프로세스 관련 특수 변수
+&lt;/h2>&lt;ul>
+&lt;li>$?
+&lt;ul>
+&lt;li>최근에 실행한 명령의 결과&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$$
+&lt;ul>
+&lt;li>현재 실행중인 shell 또는 script의 pid 반환&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$!
+&lt;ul>
+&lt;li>마지막으로 실행한 (실행중인) 프로세스의 pid&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$-
+&lt;ul>
+&lt;li>현재 사용중인 쉘 옵션&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$_
+&lt;ul>
+&lt;li>마지막으로 실행한 명령어의 마지막 인수 참조&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="shell-환경-변수">Shell 환경 변수
+&lt;/h2>&lt;ul>
+&lt;li>$PWD
+&lt;ul>
+&lt;li>현재 작업 디렉터리&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$OLDPWD
+&lt;ul>
+&lt;li>이전 작업 디렉터리&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$HOME
+&lt;ul>
+&lt;li>홈 디렉터리&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>IFS
+&lt;ul>
+&lt;li>내부 필드 구분자 (Internal Field Separtor, 기본값: 공백, 탭, 개행)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$PATH
+&lt;ul>
+&lt;li>명령어 실행시 찾을 디렉터리 목록&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$SHELL
+&lt;ul>
+&lt;li>현재 사용중인 쉘 경로&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$RANDOM
+&lt;ul>
+&lt;li>0 ~ 32767 사이의 랜덤 숫자 생성&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$UID
+&lt;ul>
+&lt;li>현재 사용자의 ID&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$EUID
+&lt;ul>
+&lt;li>현재 유효 사용자의 ID (Effective UID)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$PPID
+&lt;ul>
+&lt;li>부모 프로세스의 ID&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$LINENO
+&lt;ul>
+&lt;li>현재 실행중인 스크립트의 line 번호&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="입출력-및-실행-상태-관련-변수">입출력 및 실행 상태 관련 변수
+&lt;/h2>&lt;ul>
+&lt;li>$PS1
+&lt;ul>
+&lt;li>기본 프롬프트 문자열&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$PS2
+&lt;ul>
+&lt;li>보조 프롬프트 (예: 멀티라인 입력시 &lt;code>&amp;gt;&lt;/code> 표시)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$PS3
+&lt;ul>
+&lt;li>&lt;code>select&lt;/code> 명령어에서 사용되는 프롬프트&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$PS4
+&lt;ul>
+&lt;li>&lt;code>set -x&lt;/code> 디버깅 모드에서 각 명령어 앞에 출력되는 문자열&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>$TMOUT
+&lt;ul>
+&lt;li>자동 로그아웃 대기 시간 (초 단위, 0이면 비활성화)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
