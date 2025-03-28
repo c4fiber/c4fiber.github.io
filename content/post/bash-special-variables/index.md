@@ -3,8 +3,8 @@ title: bash 특수 변수
 aliases:
 description: bash script 및 cli에서 사용할 수 있는 bash 특수 변수들 모음
 tags:
- - bash
- - cli
+  - bash
+  - cli
 categories:
 date: 2025-03-18 16:22:41
 ---
