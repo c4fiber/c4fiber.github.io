@@ -9,7 +9,7 @@ under post : ok
 under post/tech : ok
 
 image link check
-![Image_absolute](/assets/img/1.jpg)
+![Image_absolute](/static/images/1.jpg)
 
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
 
