@@ -5,12 +5,12 @@ date: 2023-08-26 00:00:00+0000
 image: /images/2.jpg
 ---
 
-under post : ok
+Test post(.md file) path
 
-under post/tech : ok
+- under post : ok
+- under post/tech : ok
 
 image link check
-
 ![Image_absolute](/images/1.jpg)
 
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
