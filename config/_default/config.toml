@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://c4fiber.github.io"
+baseurl = "https://c4fiber-github-io.pages.dev/"
 languageCode = "ko-KR"
 title = "Bookish Potato"
 
@@ -16,3 +16,7 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+# 이미지 경로가 루트(/)로 튀는 것을 방지하는 핵심 설정
+relativeURLs = true
+canonifyURLs = false
